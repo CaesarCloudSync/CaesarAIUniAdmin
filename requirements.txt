@@ -17,5 +17,5 @@ typing_extensions==4.8.0
 uvicorn==0.24.0
 qrcode==7.4.2
 pillow
-beautifoulsoup4
+beautifulsoup4
 markdown
