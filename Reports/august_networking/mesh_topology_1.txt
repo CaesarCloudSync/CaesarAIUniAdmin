@@ -1,0 +1,74 @@
+FYI: 8 hours, 3 hours lecture. 5 hours self study.
+
+
+
+Mesh Topology
+
+
+A mesh topology is a network topology in which each device is connected to every other device. This creates a fully connected network with multiple redundant paths between any two devices.
+
+
+Calculating the Shortest Route
+
+
+In a mesh topology, the shortest route between two devices is calculated using a routing algorithm. The most common routing algorithm used in mesh networks is the 
+Dijkstra's algorithm
+.
+
+
+Dijkstra's algorithm works by assigning a cost to each link in the network and then iteratively finding the shortest path from a source node to all other nodes in the network. The cost of a link can be based on factors such as distance, bandwidth, or latency.
+
+
+The algorithm starts by initializing the distance to the source node to 0 and the distance to all other nodes to infinity. It then iteratively updates the distance to each node by considering all possible paths from the source node through the current node.
+
+
+The algorithm terminates when the distance to all nodes has been finalized. The shortest path from the source node to any other node can then be determined by tracing the path with the lowest cost.
+
+
+Mesh Topology: Redundancy and Efficient Routing
+
+
+A mesh topology is a robust and reliable network topology that provides multiple redundant paths between any two devices. This makes it ideal for critical applications where downtime is unacceptable.
+
+
+Advantages of Mesh Topology
+
+
+
+
+Redundancy:
+ Multiple paths between devices ensure that data can still be transmitted even if one or more links fail.
+
+
+Scalability:
+ Mesh networks can be easily scaled up by adding more devices without significantly impacting performance.
+
+
+Fault tolerance:
+ The redundant paths provide fault tolerance, making mesh networks highly resilient to failures.
+
+
+
+
+Calculating the Shortest Route
+
+
+Efficient routing is crucial for optimizing network performance in a mesh topology. Dijkstra's algorithm is a widely used routing algorithm that calculates the shortest path between two devices in a mesh network.
+
+
+Dijkstra's Algorithm
+
+
+Dijkstra's algorithm is a greedy algorithm that iteratively builds a shortest path tree starting from a source node. The algorithm assigns a cost to each link in the network and maintains a set of visited and unvisited nodes.
+
+
+The algorithm starts by initializing the distance to the source node to 0 and the distance to all other nodes to infinity. It then iteratively updates the distance to each unvisited node by considering all possible paths from the source node through the current node.
+
+
+The algorithm terminates when all nodes have been visited. The shortest path from the source node to any other node can then be determined by tracing the path with the lowest cost.
+
+
+Conclusion
+
+
+Mesh topology, combined with efficient routing algorithms like Dijkstra's algorithm, provides a highly reliable and scalable network architecture. Its redundant paths and fault tolerance make it suitable for critical applications where downtime is unacceptable. By understanding the principles of mesh topology and shortest path calculation, network engineers can design and implement efficient and resilient networks.

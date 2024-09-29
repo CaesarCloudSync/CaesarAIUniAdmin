@@ -1,0 +1,123 @@
+FYI: 8 hours, 3 hours lecture. 5 hours self study.
+
+
+
+OSI Model
+
+
+The OSI (Open Systems Interconnection) model is a conceptual framework for network communication. It consists of seven layers:
+
+
+
+
+Physical Layer:
+ Defines the physical and electrical characteristics of the network interface.
+
+
+Data Link Layer:
+ Manages data transmission and error detection over a single network link.
+
+
+Network Layer:
+ Provides addressing and routing functionality.
+
+
+Transport Layer:
+ Ensures reliable and efficient data delivery between hosts.
+
+
+Session Layer:
+ Manages the establishment, maintenance, and termination of communication sessions.
+
+
+Presentation Layer:
+ Formats and encrypts data for transmission.
+
+
+Application Layer:
+ Provides services to application programs, such as web browsers and email clients.
+
+
+
+
+The OSI Model: A Comprehensive Framework for Network Communication
+
+
+The OSI model, developed by the International Organization for Standardization (ISO), provides a comprehensive and widely recognized framework for understanding and designing network communication systems. It has become a valuable tool for network engineers, researchers, and students alike.
+
+
+Layered Architecture
+
+
+The OSI model is structured as a stack of seven layers, each with its own specific responsibilities. This layered approach promotes modularity, making it easier to design, implement, and troubleshoot network systems.
+
+
+Physical Layer
+
+
+The physical layer defines the physical and electrical characteristics of the network interface, including the type of cabling, connectors, and signaling methods used.
+
+
+Data Link Layer
+
+
+The data link layer manages data transmission and error detection over a single network link. It frames data into packets, adds error-checking information, and controls access to the shared medium.
+
+
+Network Layer
+
+
+The network layer provides addressing and routing functionality. It assigns unique addresses to hosts and determines the best path for data packets to take across the network.
+
+
+Transport Layer
+
+
+The transport layer ensures reliable and efficient data delivery between hosts. It provides mechanisms for flow control, error recovery, and multiplexing multiple applications over a single network connection.
+
+
+Session Layer
+
+
+The session layer manages the establishment, maintenance, and termination of communication sessions between applications. It ensures that data is transferred in an orderly and synchronized manner.
+
+
+Presentation Layer
+
+
+The presentation layer formats and encrypts data for transmission. It converts data into a standard format that can be understood by different applications and devices.
+
+
+Application Layer
+
+
+The application layer provides services to application programs, such as web browsers, email clients, and file transfer programs. It defines the protocols and data formats used by these applications to communicate over the network.
+
+
+Advantages of the OSI Model
+
+
+
+
+Comprehensive:
+ Provides a complete view of all aspects of network communication, from the physical layer to the application layer.
+
+
+Modular:
+ Dividing functionality into layers simplifies the design and implementation of network systems.
+
+
+Standardized:
+ The OSI model provides a common framework for understanding and comparing different network protocols and architectures.
+
+
+Educational:
+ It serves as a valuable tool for teaching and learning about network communication.
+
+
+
+
+Conclusion
+
+
+The OSI model has played a pivotal role in the development and standardization of network technologies. Its layered architecture and comprehensive approach have made it an essential framework for understanding and designing network systems. By adhering to the principles of the OSI model, network engineers can create reliable, efficient, and interoperable networks that meet the demands of modern communication.

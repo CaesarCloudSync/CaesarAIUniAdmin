@@ -1,0 +1,93 @@
+FYI: 8 hours, 3 hours lecture. 5 hours self study.
+
+
+
+TCP/IP Model
+
+
+The TCP/IP model is a layered architecture for network communication. It consists of four layers:
+
+
+
+
+Application Layer:
+ Provides services to application programs, such as web browsing and email.
+
+
+Transport Layer:
+ Manages the transmission of data between hosts, using protocols like TCP and UDP.
+
+
+Network Layer:
+ Provides addressing and routing functionality, using protocols like IP and ICMP.
+
+
+Link Layer:
+ Defines the physical and logical characteristics of the network interface, including data framing and error detection.
+
+
+
+
+The TCP/IP Model: A Foundation for Network Communication
+
+
+The TCP/IP model, developed in the 1970s, has become the de facto standard for network communication worldwide. It provides a comprehensive framework for transmitting data over networks, enabling the Internet and countless applications that rely on it.
+
+
+Layered Architecture
+
+
+The TCP/IP model is structured as a stack of four layers, each with its own specific responsibilities. This layered approach promotes modularity, scalability, and interoperability.
+
+
+Application Layer
+
+
+The application layer serves as the interface between application programs and the network. It provides protocols for a wide range of applications, such as web browsing (HTTP), email transfer (SMTP), and file transfer (FTP).
+
+
+Transport Layer
+
+
+The transport layer manages the flow of data between hosts. The two primary protocols used are TCP (Transmission Control Protocol) and UDP (User Datagram Protocol). TCP provides reliable and ordered data delivery, while UDP provides a connectionless and best-effort service.
+
+
+Network Layer
+
+
+The network layer handles addressing and routing. The Internet Protocol (IP) assigns unique addresses to hosts and provides a mechanism for routing data packets to their intended destinations. Other protocols, such as ICMP (Internet Control Message Protocol), facilitate error reporting and diagnostics.
+
+
+Link Layer
+
+
+The link layer defines the physical and logical characteristics of the network interface. It handles data framing, error detection, and the actual transmission of bits over the physical medium.
+
+
+Advantages of the TCP/IP Model
+
+
+
+
+Modularity:
+ Dividing functionality into layers simplifies the design and maintenance of networks.
+
+
+Scalability:
+ The layered approach enables the addition of new layers and protocols without disrupting existing ones.
+
+
+Interoperability:
+ The use of standardized protocols ensures that different devices can communicate seamlessly.
+
+
+Reliability and efficiency:
+ TCP/IP provides mechanisms for error detection, correction, and flow control, ensuring reliable data transmission.
+
+
+
+
+Conclusion
+
+
+The TCP/IP model has revolutionized the way we communicate over networks. Its layered architecture, standardized protocols, and robust design have made it the foundation of the Internet and countless applications that enrich our lives. Understanding the TCP/IP model is essential for anyone involved in the design, implementation, or management of networks.

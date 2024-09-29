@@ -1,0 +1,54 @@
+FYI: 8 hours, 3 hours lecture. 5 hours self study.
+
+
+
+IP Subnetting
+
+
+IP subnetting is the process of dividing a single IP network into smaller, more manageable subnetworks. It allows network administrators to allocate IP addresses more efficiently and to improve network performance and security.
+
+
+Subnetting is done by dividing the network's IP address into two parts: the network prefix and the host identifier. The network prefix identifies the subnet, while the host identifier identifies the specific device within the subnet.
+
+
+The number of subnets and the size of each subnet is determined by the subnet mask. The subnet mask is a 32-bit value that indicates which bits of the IP address belong to the network prefix and which bits belong to the host identifier.
+
+
+IP Subnetting: Efficient Network Management and Enhanced Performance
+
+
+IP subnetting is a fundamental technique in network design and management. By dividing a large IP network into smaller subnetworks, network administrators can improve efficiency, performance, and security.
+
+
+Advantages of Subnetting
+
+
+
+
+Efficient IP Address Allocation:
+ Subnetting allows network administrators to allocate IP addresses more efficiently by creating subnetworks of different sizes to match the specific needs of different departments or groups within an organization.
+
+
+Improved Network Performance:
+ Subnetting reduces the size of broadcast domains, which can improve network performance by limiting the number of devices that receive broadcast traffic.
+
+
+Enhanced Security:
+ Subnetting can enhance network security by isolating different subnetworks from each other, making it more difficult for unauthorized users to access sensitive data or resources.
+
+
+
+
+Subnet Mask and Subnet Calculation
+
+
+The subnet mask is used to determine the number of subnets and the size of each subnet. The subnet mask consists of a series of 1s followed by a series of 0s. The 1s indicate the bits that belong to the network prefix, while the 0s indicate the bits that belong to the host identifier.
+
+
+For example, the subnet mask 255.255.255.0 indicates that the first three octets of the IP address belong to the network prefix, while the fourth octet belongs to the host identifier. This subnet mask creates a single subnet with a network prefix of 255.255.255.0 and a host identifier range of 0-255.
+
+
+Conclusion
+
+
+IP subnetting is a valuable technique for network administrators to manage IP addresses efficiently, improve network performance, and enhance security. By understanding the principles of subnetting and how to use subnet masks, network engineers can design and implement subnetworks that meet the specific requirements of their organizations.

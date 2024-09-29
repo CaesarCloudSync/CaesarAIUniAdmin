@@ -1,0 +1,69 @@
+FYI: 8 hours, 3 hours lecture. 5 hours self study.
+
+
+
+SSH (Secure Shell)
+
+
+SSH (Secure Shell) is a network protocol that provides secure remote access to a computer system. It allows users to securely log in to a remote machine and execute commands as if they were physically present. SSH also supports secure file transfer and port forwarding.
+
+
+SSH uses asymmetric encryption to establish a secure connection between two computers. Asymmetric encryption uses a pair of keys, a public key and a private key. The public key is shared with other parties, while the private key is kept secret.
+
+
+Asymmetric Encryption in SSH
+
+
+SSH uses asymmetric encryption to establish a secure connection between two computers. The following steps describe how asymmetric encryption is used in SSH:
+
+
+
+
+Key Exchange:
+ The client and server exchange their public keys.
+
+
+Server Authentication:
+ The client verifies the server's public key to ensure that it is connecting to the correct server.
+
+
+Session Key Generation:
+ Both the client and the server generate a random session key.
+
+
+Encryption:
+ The client encrypts the session key using the server's public key and sends it to the server. The server decrypts the session key using its private key.
+
+
+Secure Communication:
+ All subsequent communication between the client and the server is encrypted using the session key.
+
+
+
+
+Advantages of Asymmetric Encryption in SSH
+
+
+Asymmetric encryption provides several advantages for SSH:
+
+
+
+
+Authentication:
+ The public key is used to verify the identity of the server, ensuring that the client is connecting to the correct server.
+
+
+Secure Key Exchange:
+ The session key is encrypted using the server's public key, ensuring that it is only accessible to the server.
+
+
+Confidentiality:
+ All communication between the client and the server is encrypted using the session key, ensuring that it is protected from eavesdropping.
+
+
+
+
+Conclusion
+
+
+SSH is a secure and versatile protocol that is widely used for remote access and secure file transfer. Asymmetric encryption plays a crucial role in SSH by providing authentication, secure key exchange, and confidentiality. By understanding how asymmetric encryption works in SSH, network engineers and users can appreciate the importance of using SSH to protect their remote connections.

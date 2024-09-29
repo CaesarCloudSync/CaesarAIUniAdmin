@@ -1,0 +1,91 @@
+{
+    "general_report": {
+        "finished": [
+            {
+                "month": "august",
+                "title": "tcip_model_1",
+                "message": "describe the tcp/ip model",
+                "lecture_hours": 3,
+                "self_study_hours": 5,
+                "module": "networking"
+            },
+            {
+                "month": "august",
+                "title": "osi_model_1",
+                "message": "describe the osi model",
+                "lecture_hours": 3,
+                "self_study_hours": 5,
+                "module": "networking"
+            },
+            {
+                "month": "august",
+                "title": "mesh_topology_1",
+                "message": "describe the mesh topology and how the shortest route is calculated.",
+                "lecture_hours": 3,
+                "self_study_hours": 5,
+                "module": "networking"
+            },
+            {
+                "month": "august",
+                "title": "topologies_1",
+                "message": "describe the topologies in a physical network",
+                "lecture_hours": 3,
+                "self_study_hours": 5,
+                "module": "networking"
+            },
+            {
+                "month": "september",
+                "title": "subnetting_1",
+                "message": "describe how subetting works",
+                "lecture_hours": 3,
+                "self_study_hours": 5,
+                "module": "networking"
+            },
+            {
+                "month": "september",
+                "title": "ssh_1",
+                "message": "describe what ssh is and how it does assymetric encryption",
+                "lecture_hours": 3,
+                "self_study_hours": 5,
+                "module": "networking"
+            },
+            {
+                "month": "september",
+                "title": "application_layer_1",
+                "message": "describe what security measures exist for the application layer including the protocols.",
+                "lecture_hours": 3,
+                "self_study_hours": 5,
+                "module": "networking"
+            }
+        ],
+        "unfinished": [
+            {
+                "month": "september",
+                "title": "vpns_for_security_1",
+                "message": "describe vpns are used for security and what protocols are used.",
+                "lecture_hours": 3,
+                "self_study_hours": 5,
+                "module": "networking"
+            }
+        ]
+    },
+    "specific_report": {
+        "finished": [],
+        "unfinished": [
+            {
+                "month": "june",
+                "title": "vpns_for_security_1",
+                "message": "describe vpns are used for security and what protocols are used.",
+                "overall_hours": 5,
+                "module": "networking"
+            },
+            {
+                "month": "june",
+                "title": "vpns_for_security_1",
+                "message": "describe vpns are used for security and what protocols are used.",
+                "overall_hours": 5,
+                "module": "networking"
+            }
+        ]
+    }
+}
