@@ -1,0 +1,112 @@
+    FYI: 8 hours, 3 hours lecture. 5 hours self study.
+
+
+
+The TCP/IP model, also known as the Internet protocol suite, is a set of communication protocols that govern the operation of the Internet. It consists of four layers:
+
+
+
+
+Link Layer (Layer 1):
+ Responsible for physical data transmission over a specific network medium.
+
+
+Internet Layer (Layer 3):
+ Handles addressing and routing packets across different networks.
+
+
+Transport Layer (Layer 4):
+ Provides reliable and unreliable data transmission between end hosts.
+
+
+Application Layer (Layer 7):
+ Supports various user applications, including web browsing, email, and file transfer.
+
+
+
+
+TCP/IP Model: The Foundation of Modern Networks
+
+
+The TCP/IP model, developed in the 1970s, laid the foundation for the modern Internet. It is a layered architecture that defines a set of communication protocols governing the way data is transmitted, routed, and delivered across a network.
+
+
+Layer 1: Link Layer
+
+
+The Link Layer, also known as the Network Interface Layer, is responsible for transmitting data over a specific physical medium. It defines the physical characteristics of the network interface, such as the type of cable and transmission technology.
+
+
+Layer 3: Internet Layer
+
+
+The Internet Layer, also known as the Network Layer, handles addressing and routing of data packets across different networks. Each network device has a unique IP address, which enables the identification and routing of packets.
+
+
+Layer 4: Transport Layer
+
+
+The Transport Layer provides reliable and unreliable data transmission between end hosts. It ensures that data is delivered in the correct order and without loss or corruption. The two main protocols in this layer are:
+
+
+
+
+TCP (Transmission Control Protocol):
+ Provides reliable, ordered, and error-controlled data transmission.
+
+
+UDP (User Datagram Protocol):
+ Provides unreliable, unordered, and connectionless data transmission.
+
+
+
+
+Layer 7: Application Layer
+
+
+The Application Layer supports various user applications that communicate over the network. It provides standardized protocols for specific applications, such as:
+
+
+
+
+HTTP (Hypertext Transfer Protocol):
+ Used for web browsing.
+
+
+SMTP (Simple Mail Transfer Protocol):
+ Used for email communication.
+
+
+FTP (File Transfer Protocol):
+ Used for file transfer.
+
+
+
+
+Benefits of TCP/IP Model
+
+
+
+
+Modularity:
+ The layered architecture allows for independent development and maintenance of each layer.
+
+
+Interoperability:
+ Devices from different manufacturers can communicate seamlessly as they follow the same protocols.
+
+
+Scalability:
+ The model can support a wide range of network sizes and topologies.
+
+
+Fault Tolerance:
+ If a component in one layer fails, other layers can continue to operate, reducing network downtime.
+
+
+
+
+Conclusion
+
+
+The TCP/IP model is a fundamental communication architecture that enables the seamless and efficient exchange of data across the Internet. Its layered design, interoperability, and scalability have made it the backbone of modern networks, connecting billions of devices and facilitating a wide range of applications.
