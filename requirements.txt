@@ -19,3 +19,4 @@ qrcode==7.4.2
 pillow
 beautifulsoup4
 markdown
+lxml
