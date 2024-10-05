@@ -1,0 +1,82 @@
+Evidence: S4: Initiate, design, code, test and debug a software component for a digital and technology solution.
+
+
+May 2024
+
+
+Situation
+
+
+I joined a new project involving a large and complex software system with multiple components and teams. The project used various DevOps tools, including BitBucket for repository management and Jira for issue tracking and environment management.
+
+
+Task
+
+
+My first task was to make simple changes to the system, which involved transferring SQL commands from one file to another. To identify the commands quickly, I created a small script. After making the changes, I needed to follow a specific process to push, test, and merge my changes into the master branch. This process involved rebasing, pushing, and resolving merge conflicts.
+
+
+(screenshot of BitBucket repository)
+
+
+(screenshot of Jira issue tracking)
+
+
+Action
+
+
+Before making any changes, I performed a 
+git pull
+ and 
+git rebase
+ to update my local repository with the latest changes from the remote repository. I encountered merge conflicts, which I resolved using the merge editor.
+
+
+(screenshot of merge conflicts)
+
+
+(screenshot of resolved merge conflicts)
+
+
+I then rebased my changes, pushed them to the remote repository, and created a tester tag. The tester used this tag to deploy my changes to a test environment and run regression tests. Jenkins was used to track the build status.
+
+
+(screenshot of tester tag)
+
+
+(screenshot of Jenkins build)
+
+
+Result
+
+
+When my changes were ready for review, I created a pull request (PR). Three PR reviewers reviewed the code, and once approved, it was merged during a merge slot.
+
+
+Debugging
+
+
+During the development process, I encountered several errors. I used a combination of tools and techniques to debug and fix the errors, including:
+
+
+
+
+Logging:
+ I added logging statements to identify the source of the errors.
+
+
+Debugging tools:
+ I used debugging tools such as 
+pdb
+ and 
+ipdb
+ to step through the code and inspect the values of variables.
+
+
+Code reviews:
+ I sought feedback from colleagues and participated in code reviews to identify and fix errors.
+
+
+
+
+By following these steps, I was able to successfully initiate, design, code, test, and debug a software component for a digital and technology solution.

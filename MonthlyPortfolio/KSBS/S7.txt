@@ -1,0 +1,34 @@
+Evidence: S7: Work effectively within teams, leading on appropriate digital technology solution activities.
+
+
+July 2024
+
+
+Situation
+
+
+My new project involved working with several large component teams and testing environments. Due to the size of the project, there was limited availability of testing environments for development teams.
+
+
+Task
+
+
+My task was to make changes to the codebase logic, test the changes locally, test them in an environment, and then send the changes to a tester for further testing. However, the limited availability of testing environments posed a challenge.
+
+
+Action
+
+
+To gain access to an environment, I needed to coordinate with the testers who were using the environments. I identified the testers responsible for the environments I needed and messaged them using Microsoft Teams.
+
+
+(screenshot of Microsoft Teams message)
+
+
+I inquired about their availability and requested access to an environment once they were finished with their testing. The testers promptly responded and informed me when the environments would be available for my use.
+
+
+Result
+
+
+By effectively communicating with the testers, I was able to secure access to an environment in a timely manner. This allowed me to complete my testing and send the changes to the tester for further review before the end of the sprint and merge slot.

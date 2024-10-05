@@ -1,0 +1,64 @@
+Evidence: B6: Participates in and shares best practice in their organisation, and the wider community for aspects relevant to digital and technology solutions.
+
+
+April 2024
+
+
+Situation
+
+
+My team used GitLab for repository storage and issue tracking. In DevOps, managing secret keys and environmental variables is crucial for security and reliability. Terraform state also needs to be managed by developers to ensure consistency and avoid conflicts.
+
+
+Task
+
+
+I was tasked with setting up environmental variables and Terraform state on my local machine.
+
+
+Action
+
+
+To follow best practices, I:
+
+
+
+
+Stored secret keys in Azure Key Vault:
+ This centralized and secure storage mechanism helps protect sensitive information from unauthorized access.
+
+
+Used Terraform to manage state:
+ Terraform state keeps track of all changes made in Terraform, ensuring consistency and preventing conflicts.
+
+
+
+
+(screenshot of Azure Key Vault configuration)
+
+
+(screenshot of Terraform state management)
+
+
+Result
+
+
+By following these best practices, I was able to securely set up my local environment and make changes and deployments to Azure using Terraform.
+
+
+Issues that can arise from not following best practices
+
+
+
+
+Security breaches:
+ Storing secret keys insecurely can lead to unauthorized access and data breaches.
+
+
+Deployment errors:
+ Inconsistent or outdated Terraform state can cause deployment errors and infrastructure issues.
+
+
+Collaboration problems:
+ Unmanaged Terraform state can lead to conflicts and collaboration issues among developers.
+

@@ -1,0 +1,97 @@
+Evidence: K21: How to operate at all stages of the software development life cycle and how each stage is applied in a range of contexts. For example, requirements analysis, design, development, testing, implementation.
+
+
+May 2024
+
+
+Situation
+
+
+When starting work on an issue, we are assigned a ticket in Jira. During our daily startup meeting, we provide updates on the progress of our tickets.
+
+
+Task
+
+
+My task was to analyze the requirements of the assigned ticket and determine the necessary steps to complete it.
+
+
+Action
+
+
+Requirements analysis
+
+
+I reviewed the ticket description and any associated documents to understand the requirements of the change.
+
+
+(screenshot of Jira ticket)
+
+
+Design
+
+
+I determined the approach I would take to implement the changes, including the specific code changes and any necessary database modifications.
+
+
+(screenshot of design document)
+
+
+Development
+
+
+I checked out a new branch from the main repository and made the necessary code changes. I also updated the visual tool used in the project to align with the code changes.
+
+
+(screenshot of code changes)
+
+
+(screenshot of visual tool changes)
+
+
+Testing
+
+
+I manually tested the changes on the frontend to verify that they were working as expected.
+
+
+(screenshot of manual test results)
+
+
+Implementation
+
+
+I pushed my changes to the remote repository and deployed them to the production environment using Jenkins.
+
+
+(screenshot of Jenkins build)
+
+
+Result
+
+
+I successfully completed the ticket and delivered the required changes. The changes were tested and implemented, and they met the requirements of the ticket.
+
+
+Stage of the development lifecycle
+
+
+I operated in the following stages of the software development lifecycle:
+
+
+
+
+Requirements analysis
+
+
+Design
+
+
+Development
+
+
+Testing
+
+
+Implementation
+

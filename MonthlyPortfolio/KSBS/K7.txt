@@ -1,0 +1,57 @@
+Evidence: K7: The roles, functions and activities within digital technology solutions within an organisation.
+ + 
+4 evidences accepted
+
+
+February 2024
+
+
+Situation
+
+
+During my cybersecurity project, I was tasked with interviewing service owners about their organization's cybersecurity posture. We used a Technical Discovery Assessment (TDA) document to gather information about the software architecture and applications used within the organization.
+
+
+Task
+
+
+My task was to use the information gathered from the TDA to assess the security of the applications and provide recommendations for improving security posture. (screenshot of TDA document)
+
+
+Action
+
+
+I interviewed service owners to gain a deeper understanding of the applications and their use within the organization. (screenshot of interview notes) I then reviewed the software architectures and applications, assessing their security and identifying any vulnerabilities. (screenshot of security assessment report)
+
+
+Result
+
+
+My assessment identified several vulnerabilities and provided recommendations for mitigation strategies. These recommendations included specific actions that the organization could take to improve the security posture of its applications. (screenshot of mitigation strategy report)
+
+
+Benefits to the business
+
+
+The security assessment provided the organization with a clear understanding of the risks associated with its applications. The recommendations for mitigation strategies enabled the organization to take proactive steps to address these risks and improve its overall security posture.
+
+
+Technical Skills
+
+
+
+
+Technical Discovery Assessment (TDA)
+
+
+Software architecture review
+
+
+Security assessment
+
+
+Vulnerability identification
+
+
+Mitigation strategy development
+

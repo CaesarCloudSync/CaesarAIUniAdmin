@@ -1,0 +1,130 @@
+K23: Principles of a range of development methods and approaches and the contexts in which they can be applied
+
+
+Examples of Development Methods and Approaches
+
+
+Scrum
+
+
+
+
+An agile development framework that emphasizes collaboration, iteration, and flexibility.
+
+
+Key principles:
+
+
+Sprints: Short, focused work cycles typically lasting 1-4 weeks.
+
+
+Product backlog: A prioritized list of features to be developed.
+
+
+Daily stand-up meetings: Brief team meetings to track progress and identify obstacles.
+
+
+
+
+
+
+
+
+Extreme Programming (XP)
+
+
+
+
+Another agile methodology that prioritizes customer satisfaction and rapid feedback.
+
+
+Key practices:
+
+
+Continuous integration: Regularly merging changes into the main codebase.
+
+
+Pair programming: Two developers working together on the same task.
+
+
+Test-driven development (TDD): Writing automated tests before implementing code.
+
+
+
+
+
+
+
+
+Waterfall
+
+
+
+
+A sequential development approach that follows a linear progression of phases: requirements, design, implementation, testing, and deployment.
+
+
+Best suited for projects with well-defined requirements and limited scope for change.
+
+
+
+
+Prince2
+
+
+
+
+A project management methodology that focuses on structured planning, controlled execution, and risk management.
+
+
+Key principles:
+
+
+Work breakdown structure: A hierarchical decomposition of project tasks.
+
+
+Timelines and budgets: Detailed plans for task scheduling and resource allocation.
+
+
+
+
+
+
+
+
+Screenshots
+
+
+
+
+(Screenshot: Product backlog in Jira software)
+
+
+(Screenshot: Daily stand-up meeting notes)
+
+
+(Screenshot: Continuous integration pipeline in Jenkins)
+
+
+
+
+How I Actioned Tasks
+
+
+
+
+Planned and prioritized sprints using agile tools:
+ Created product backlogs and organized sprint planning meetings to define and prioritize features.
+
+
+Facilitated daily stand-up meetings:
+ Led team discussions to track progress, identify blockers, and make adjustments as needed.
+
+
+Implemented continuous integration:
+ Set up a pipeline in Jenkins to automatically merge changes and run automated tests.
+
+
+Followed Prince2 principles for project management:
+ Developed work breakdown structures and timelines to ensure structured planning and execution.
+

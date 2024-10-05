@@ -1,0 +1,56 @@
+Evidence: S9: Apply relevant security and resilience techniques to a digital and technology solution. For example, risk assessments, mitigation strategies.
+
+
+February 2024
+
+
+Situation
+
+
+We used the NIST Framework, a cybersecurity framework developed by the National Institute of Standards and Technology (NIST). The NIST Framework provides a comprehensive set of guidelines and best practices for assessing and improving the security and resilience of digital and technology solutions.
+
+
+Task
+
+
+My task was to interview the client and conduct a maturity assessment to assess the resilience of the systems used by the client. A maturity assessment is a systematic evaluation of an organization's security posture against a defined set of criteria.
+
+
+Action
+
+
+During the interview, I gathered information about the client's systems, processes, and security controls. I used this information to assess the client's maturity level against the NIST Framework.
+
+
+I also developed risk registers for the client. A risk register is a document that identifies and assesses the risks associated with a particular system or process. The risk registers that I developed helped the client to prioritize their security risks and develop mitigation strategies.
+
+
+(screenshot of risk register)
+
+
+Result
+
+
+I delivered the deliverables to be used in business as usual (BAU) for the client. This included the maturity assessment report and the risk registers. The client could use these deliverables to conduct future maturity assessments and improve their security posture.
+
+
+Key considerations for completing the risk register
+
+
+
+
+Identifying risks:
+ I used a combination of interviews, document reviews, and site visits to identify the risks associated with the client's systems and processes.
+
+
+Assessing risks:
+ I assessed the likelihood and impact of each risk to determine its overall severity.
+
+
+Developing mitigation strategies:
+ I developed mitigation strategies for each risk to help the client reduce the likelihood or impact of the risk.
+
+
+Adhering to company guidelines:
+ I followed the company's guidelines for completing risk registers. This included using a standard template and adhering to specific formatting and documentation requirements.
+

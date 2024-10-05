@@ -1,0 +1,37 @@
+S21: Determine, refine, adapt and use appropriate software engineering methods, approaches and techniques to evaluate software engineering project outcomes
+
+
+Situation
+
+
+In order to test our changes, they must be deployed to an environment. However, this can be slow and difficult because only one person at a time can use an environment. As a result, the team is developing a local environment deployment.
+
+
+Task
+
+
+The local environment deployment consists of separate Docker containers for the CSS, static files, and main routes. To deploy each container, a developer would have to manually deploy each container with a command. This can be confusing and time-consuming.
+
+
+Action
+
+
+I made changes to the deployment process so that all of the containers could be run with a single command. This simplified the development process and sped up the testing process.
+
+
+Evaluation
+
+
+To evaluate the effectiveness of my changes, I collected data on the time it took to deploy changes before and after implementing the new deployment process. I also gathered feedback from stakeholders on the ease of use of the new deployment process.
+
+
+Results
+
+
+The data showed that the new deployment process reduced the time it took to deploy changes by an average of 50%. The feedback from stakeholders was also positive, with many developers commenting on how much easier it was to set up and use the local environment.
+
+
+Conclusion
+
+
+Based on the data and feedback, I concluded that the changes I made to the deployment process were successful in improving the efficiency and usability of the local environment. This ultimately led to faster testing and a more streamlined development process.

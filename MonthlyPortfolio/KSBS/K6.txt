@@ -1,0 +1,66 @@
+Evidence: K6: The approaches and techniques used throughout the digital and technology solution lifecycle and their applicability to an organisation’s standards and pre-existing tools.
+
+
+March 2024
+
+
+Situation
+
+
+I was assigned to a project where Generative AI was used extensively for the organization's technology solutions. This involved completing numerous prompt engineering tasks in Python, requiring me to write code and programs to solve the problems provided.
+
+
+Task
+
+
+As part of the project, we were tasked with designing a program that would use Generative AI to produce advertising claims for a company.
+
+
+Action
+
+
+Initially, the codebase for the program was created in a notebook format. I refactored the codebase into an object-oriented form, allowing it to be interacted with on a demo basis.
+
+
+Key considerations for transferring the code to an object-oriented form
+
+
+
+
+Encapsulation:
+ Grouping related data and methods into objects to hide implementation details and promote data integrity.
+
+
+Modularity:
+ Breaking down the code into smaller, reusable modules to improve maintainability and code reuse.
+
+
+Inheritance:
+ Creating subclasses that inherit properties and methods from parent classes to promote code reuse and extensibility.
+
+
+
+
+Code reuse and good coding practices
+
+
+
+
+DRY (Don't Repeat Yourself) principle:
+ Avoiding duplicate code by using functions, classes, and modules to encapsulate commonly used code.
+
+
+Unit testing:
+ Writing tests to verify the correctness of individual functions and modules.
+
+
+Code documentation:
+ Adding comments and documentation to explain the purpose and functionality of the code.
+
+
+
+
+Result
+
+
+The refactored codebase was used in a test workshop to demonstrate the capabilities of the program. The object-oriented design improved the maintainability, extensibility, and reusability of the code.

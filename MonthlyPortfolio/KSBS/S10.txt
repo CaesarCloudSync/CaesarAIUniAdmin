@@ -1,0 +1,83 @@
+Evidence: S10: Initiate, design, implement and debug a data product for a digital and technology solution.
+
+
+June 2024
+
+
+Situation
+
+
+My project relied on a functional database used by the client to commit actions. The client used the database to store information on customers and make decisions based on that information.
+
+
+Task
+
+
+However, there was a bug in the database that prevented the client from editing or deleting customer data. I was tasked with fixing the bug and implementing a solution that would allow the client to edit and delete data.
+
+
+(screenshot of bug report)
+
+
+Action
+
+
+I analyzed the database schema and identified the tables and columns that were affected by the bug. I then wrote SQL queries to fix the bug and allow the client to edit and delete data.
+
+
+(screenshot of SQL queries)
+
+
+I also added Java code to the application to implement the logic behind the data changes.
+
+
+(screenshot of Java code)
+
+
+I then requested an environment to test my changes. I performed manual tests to verify that the bug had been fixed and that the client could now edit and delete data.
+
+
+(redacted screenshot of manual test results)
+
+
+Result
+
+
+I created a pull request for my changes and it was merged into the main branch. The changes were deployed to production and the client was able to edit and delete data as expected.
+
+
+Technologies used
+
+
+
+
+SQL
+
+
+Java
+
+
+Relational database management system
+
+
+
+
+Skills demonstrated
+
+
+
+
+Data analysis
+
+
+SQL programming
+
+
+Java programming
+
+
+Debugging
+
+
+Testing
+

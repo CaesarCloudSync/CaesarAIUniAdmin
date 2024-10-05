@@ -1,0 +1,46 @@
+Evidence: S12: Plan, design and manage simple computer networks with an overall focus on the services and capabilities that network infrastructure solutions enable in an organisational context.
+
+
+April 2024
+
+
+Situation
+
+
+In my internal project, I took on a DevOps role and was responsible for managing the infrastructure of the application. The application was divided into three tiers: frontend, backend, and data storage. Each tier was deployed in its own subnet. The backend and database tiers were placed in private subnets to protect them from unauthorized access, while the frontend tier was placed in a public subnet to allow internet access from the internet gateway.
+
+
+Task
+
+
+We needed to configure route tables and DNS zones to enable communication between the subnets.
+
+
+Action
+
+
+A route table is a network routing table that contains a set of rules that determine how traffic is forwarded within a virtual network. A DNS zone is a collection of DNS records that map domain names to IP addresses.
+
+
+(screenshot of route table)
+
+
+(screenshot of DNS zone)
+
+
+We created a private gateway in Azure and configured a route table to route traffic from the frontend subnet to the private gateway. We then created a DNS zone to map the domain name of the application to the IP address of the private gateway.
+
+
+(screenshot of private gateway)
+
+
+Result
+
+
+These configurations allowed the frontend tier to communicate with the backend tier and the database tier. This enabled the application to function properly and provide the desired services to users.
+
+
+Business case
+
+
+The need to configure route tables and DNS zones arose from the requirement to isolate the backend and database tiers from the internet. This isolation was necessary to protect these tiers from unauthorized access and potential security breaches. By implementing these configurations, we were able to ensure the security and reliability of the application.

@@ -1,0 +1,68 @@
+K24: How to interpret and implement a design, compliant with functional, non-functional and security requirements including principles and approaches to addressing legacy software development issues from a technical and socio-technical perspective
+
+
+Situation
+
+
+My project involves legacy software that is used in conjunction with newer software. The legacy software has different data structures, JSON formatting, and ID formats compared to the newer software, leading to mismatched API requests and errors on the frontend.
+
+
+Task
+
+
+I was tasked with aligning the API requests between the old and new versions of the software to ensure compatibility. This required interpreting the current design of the API and implementing a new design that addressed the issues with the old design.
+
+
+Current API Design
+
+
+The current API design did not take into account the differences between the old and new software systems. As a result, API requests made from the old software would often fail when processed by the newer software due to mismatched data formats and ID prefixes.
+
+
+New API Design
+
+
+To address these issues, I designed a new API that included the following changes:
+
+
+
+
+Standardized data structures and JSON formatting:
+ I defined common data structures and JSON formatting rules to ensure that API requests from both the old and new software would be compatible.
+
+
+ID mapping:
+ I created a mapping between the old and new ID formats to ensure that users could be correctly identified regardless of which system they were using.
+
+
+Conditional logic:
+ I added conditional logic to the API to differentiate between old and new system users and handle requests accordingly.
+
+
+
+
+Action
+
+
+I implemented the new API design by making the following changes to the code:
+
+
+
+
+Backend:
+ I updated the backend code to use the new data structures, JSON formatting, and ID mapping.
+
+
+Frontend:
+ I updated the frontend code to make API requests using the new API design.
+
+
+
+
+Result
+
+
+After implementing the new API design, I manually tested the changes to ensure that API requests from both the old and new software were being processed correctly. The result was that users using the older system were able to perform actions without encountering errors on the frontend.
+
+
+(Note: I cannot provide screenshots of the manual test results due to company policy.)

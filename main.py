@@ -3,12 +3,12 @@ from dotenv import load_dotenv
 from fastapi import FastAPI, Header,Request,File, UploadFile,status,Form
 from fastapi.responses import StreamingResponse,FileResponse,Response
 from typing import Dict,List,Any,Union
-from CaesarAIAptemOTJ.CaesarAIAptemOTJ import CaesarAIAptemOTJ
+from CaesarAIUniAdmin.CaesarAIAptemOTJ import CaesarAIAptemOTJ
 from fastapi.responses import StreamingResponse
 from fastapi import WebSocket,WebSocketDisconnect
 from fastapi.middleware.cors import CORSMiddleware
 
-load_dotenv("CaesarAIAptemOTJ/.env")
+load_dotenv("CaesarAIUniAdmin/.env")
 app = FastAPI()
 app.add_middleware(
     CORSMiddleware,
@@ -24,6 +24,7 @@ JSONArray = List[Any]
 JSONStructure = Union[JSONArray, JSONObject]
 caesaraiotj = CaesarAIAptemOTJ()   
 
+# TODO Next Reusable API by uploading docx,then ask any questions on it.
 @app.get('/')# GET # allow all origins all methods.
 async def index():
     return "Welcome to CaesarAI Template. Hello"
