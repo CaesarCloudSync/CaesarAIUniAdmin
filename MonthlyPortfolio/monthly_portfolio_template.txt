@@ -1,0 +1,1794 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+E-Portfolio – 1.2 
+
+Digital Technology Solutions Degree Apprenticeship 
+
+ 
+
+A Digital & Technology Solutions Professional provides technology enabled solutions to internal and/or external customers, in a range of areas including Software Engineer, IT Consultant, Data Analyst and Network Engineer. They implement technology solutions that enable businesses to develop new products and services and to increase an organisation’s productivity using digital technologies. They are confident, competent, and capable independent Technology Solutions Professionals, able to operate in a range of related roles. The occupation is based upon a core set of outcomes that will be supplemented by one, and only one, of the specialism areas. 
+
+ 
+
+ 
+
+Candidate Name: _____________________________________ 
+
+ 
+
+Organisation: _________________________________________ 
+
+ 
+
+ 
+
+Professional Discussion underpinned by a Portfolio 
+
+Overview 
+
+In the professional discussion, an independent assessor and apprentice have a formal two-way conversation. It gives the apprentice the opportunity to demonstrate the KSBs mapped to this assessment method. 
+
+The apprentice can refer to and illustrate their answers with evidence from this portfolio of evidence. 
+
+Rationale 
+
+This assessment method is being used because: 
+
+Breadth of the core of the standard and opportunities to evidence across this throughout the duration of the programme 
+Allows the opportunity to explore depth of understanding surrounding the relevant specialist KSBs 
+Delivery 
+
+The professional discussion must be structured to give the apprentice the opportunity to demonstrate the KSBs mapped to this assessment method to the highest available grade. 
+
+An independent assessor must conduct and assess the professional discussion. 
+
+The purpose of the independent assessor's questions will be to explore the following topics and themes: 
+
+Theme A: Underlying Principles 
+
+Theme B: Technical Solutions 
+
+Theme C: Innovation & Response 
+
+Theme D: Legal, Ethics & Landscape 
+
+ 
+
+Additional information  
+
+https://www.instituteforapprenticeships.org/apprenticeship-standards/digital-and-technology-solutions-professional-v1-2 
+
+​​Table of Contents 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​ 
+
+​​ 
+
+ 
+
+ 
+
+Module mapping key 
+
+ 
+
+Evidence can be collected from the academic assignments completed during the course of the degree apprenticeship. The key below is included to guide you.  
+
+ 
+
+ 
+
+ 
+
+Level 4 Modules – in Green 
+
+Technology in the Organisational Context                          (TOC) 
+
+Software Engineering Fundamentals                                    (SEF) 
+
+IT Project Management                                                                                (ITPM) 
+
+Data Communications and Network Security                 (DCNS) 
+
+Professional Practice and Portfolio Development 1       (PPPD1)  
+
+Data Modelling and Database Design                                 (DMDD) 
+
+ 
+
+ 
+
+ 
+
+Level 5 Modules - Brown 
+
+Business Systems Processes                                                   (BSP) 
+
+Cloud Solutions and Architecture                                          (CSA) 
+
+Cyber Security                                                                                 (CS) 
+
+Practical Data Analytics                                                                              (PDA) 
+
+Professional Practice and Portfolio Development 2       (PPPD2) 
+
+(Pathway Specific) 
+
+Business and Delivering Change (Consultancy)              (BDC) 
+
+Software Engineering and Agile               (Software)                          (SEA) 
+
+Principles of Data Science (Data)                                                           (PDS) 
+
+Switching and Routing (Networking)                                     (SR) 
+
+ 
+
+ 
+
+ 
+
+Level 6 Modules – in Blue 
+
+Practical Research Proposal                                                     (PRP) 
+
+Developing Technology Strategy                                              (DTS) 
+
+Professional Practice and Portfolio Development 3       (PPPD3) 
+
+Contemporary Issues in Digital Technology                       (CIDT)  
+
+(Pathway Specific) 
+
+Consulting (Consultancy)                                                                           (C) 
+
+Software Engineering and Dev Ops (Software) (SEDO) 
+
+Applied Data Modelling and Visualisation (Data)            (ADMV) 
+
+Advanced Network Design (Networking)                             (ANWD) 
+
+Major Project                                                                                    (MP) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The Organisational Context (Core) 
+
+Standards 
+
+Pass Descriptor 
+
+Distinction Descriptor 
+
+Modules Mapped 
+
+K7 
+
+Reviews the roles, functions and activities relevant to technology solutions within an organisation. (K7) 
+
+ 
+
+(TOC) 
+
+(BSP) 
+
+(DTS) 
+
+ 
+
+ 
+
+​​☐​ K7: The roles, functions and activities within digital technology solutions within an organisation. + 4 evidences accepted 
+
+ 
+February 2024  
+
+Situation 
+
+During my cybersecurity project I took part in interviewing service owners about the cyber security. We would use a document called a TDA (Technical Discovery Assessment) to help understand the software. We would then assess the applications security and grade it in the Maturity assessment. Successfully assessing the security of applications within the organization. 
+
+Task 
+
+This required me to learn about the architectures and applications used. Then interview the client using that information as a base 
+
+Action 
+
+I provided recommendations for improving security posture, including specific vulnerabilities discovered and mitigation strategies.  
+
+Result 
+
+In the end we were able to provide an assessment of their security, we provided recommendations on how we could mitigate them. And identified the risks of the systems. 
+
+ 
+
+ 
+
+Core Technical Concepts (Core) 
+
+Standards 
+
+Pass Descriptor 
+
+Distinction Descriptor 
+
+Modules Mapped 
+
+K6 
+
+K11 
+
+K12 
+
+K14 
+
+K16 
+
+Critically evaluates the nature and scope of common vulnerabilities in digital and technology solutions (K11) 
+
+Explains core technical concepts for digital and technology solutions, including: 
+
+- The approaches and techniques used throughout the digital and technology solution lifecycle and their applicability to an organisation’s standards and pre-existing tools.(K6) 
+
+- Data gathering, data management, and data analysis.(K12, K14) 
+
+- Computer networking concepts.(K16)     
+
+ 
+
+(TOC) 
+
+(SEF) 
+
+(ITPM) 
+
+(DCNS)  
+
+(DMDD) 
+
+(CSA) 
+
+(CS)  
+
+(PDA) 
+
+(PRP) 
+
+(CIDT) 
+
+(MP) 
+
+ 
+
+ 
+
+​​☐​ K6: The approaches and techniques used throughout the digital and technology solution lifecycle and their applicability to an organisation’s standards and pre-existing tools. 
+
+ 
+
+March 2024  
+
+Situation 
+
+I was put on a second project where Generative AI is largely used for their technology solutions. This led to completing a lot of prompt engineering tasks in python. This meant that I had to complete a lot of code and programs for the problems provided.  
+
+Task 
+
+In a sub-section of the project, we were asked to design a program that would produce advertising claims for a company using Genai.  
+
+ 
+
+ 
+
+Action 
+
+Initially the notebook we had created was purely in notebook form. I transferred the codebase into an object-oriented form and allowed it to be interacted with on a demo basis. 
+
+Result 
+
+In the end, I was able to help to create the code that would be used in as a test for a workshop. 
+
+ 
+
+​​☐​ K11: The nature and scope of common vulnerabilities in digital and technology solutions. For example, the risks of unsecure coding and unprotected networks. 
+
+ 
+
+Insert evidence here -  
+ 
+
+​​☐​ K12: The role of data management systems within Digital and Technology Solutions. 
+
+ 
+
+Insert evidence here -  
+ 
+
+​​☐​ K14: A range of quantitative and qualitative data gathering methods and how to appraise and select the appropriate method. 
+
+ 
+
+Insert evidence here -  
+ 
+
+​​☐​ K16: Fundamental computer networking concepts in relation to digital and technology solutions. For example, structure, cloud architecture, components, quality of service. 
+
+April 2024 
+
+ 
+
+Situation 
+
+For my internal project, I took on a DevOps role that split its architecture between frontend, backend and database with each being in their own subnets.  
+
+Task 
+
+I was asked to setup RabbitMQ as a resource in one of these subnets and expose it to communicate with the other subnets. 
+
+Action 
+
+I set the VPC, the subnet groups, the ports and the route table all in terraform to make sure that everything could communicate. 
+
+Result 
+
+To test we used a virtual machine that was connected to all the subnets to make tests on containers. I was able to help a colleague finish a ticket with in setting it up. 
+
+ 
+
+Applied Technical Solutions (Core) 
+
+ 
+
+Standards 
+
+Pass Descriptor 
+
+Distinction Descriptor 
+
+Modules Mapped 
+
+K13 
+
+S4 
+
+S9 
+
+S10 
+
+S11 
+
+S12 
+
+Demonstrates the use of core technical concepts for digital and technology solutions, including: 
+
+- Initiate, design, code, test and debug a software component for a digital and technology solution. (S4) 
+
+- Security and resilience techniques. (S9) 
+
+- Initiates, designs, implements and debugs a data product for a digital and technology solution. (S10) 
+
+- Plans, designs and manages simple computer networks. (S12) 
+
+- Applies the principles of data analysis for digital and technology solutions. (K13, S11) 
+
+ 
+
+(SEF) 
+
+(DCNS)  
+
+(DMDD) 
+
+(CSA) 
+
+(CS)  
+
+(PDA) 
+
+​​☐​ K13: Principles of data analysis for digital and technology solutions. 
+
+ 
+
+Insert evidence here -  
+ 
+
+​​☐​ S4: Initiate, design, code, test and debug a software component for a digital and technology solution. 
+
+May 2024   
+
+Situation 
+
+I joined a new project. This project has a massive system with many moving components and teams. This requires us to use intricate and specific devops tools. BitBucket is used to store all the needed repositories. Jira is used to create, track and build all the environments and code.  
+
+Task 
+
+For my first project they were simple changes that only required me transferring SQL commands from one file to another. I created a small script to identify them quickly. Once I finished my changes. There is a specific process required to create push, test and merge changes into the master branch.  Involving the act of rebasing, pushing and dealing with merge conflicts etc. 
+
+Action 
+
+ 
+
+ 
+
+Before I make any changes, I would normally have to make a git pull and rebase, there were merge conflicts so I had to deal with those. And full rebase. 33O095JK439g3I0puRYFMtYqpeCPFqeJ2PvbHnCLzuRJpS3+Z8Sv8HEPjHXwnnSfkAAAAASUVORK5CYII= 
+
+There were some import conflicts 
+
+D456X1oRQ8U3AAAAAElFTkSuQmCCAs well as, extra implementations made by a colleague. 
+
+Dwzh0hL8qJ0CAAAAAElFTkSuQmCC 
+
+I used the merge editor to merge the conflicts.gPaue6LyA1zIfBYEQRAE4ezpFRoeJb23IAiC0KOBb3BM0pt66ERcuLggWD2CsDd0MQGm0LUx6dWLV5EDBN3tqYLCSwXNIuB4U9MZqHmEngLKAeo2kHotdEXQTllb23DMGkEQBEG4FIiLjaFesfF9ZIwuCIIgCIIgCIIgCIIgCIIgCEKPISYmWlxgCYIgCIIgCIIgCIIgCIIgCILQ8xAFiCAIgiAIgiAIgiAIgiAIgiAIPQ5RgAiCIAiCIAiCIAiCIAiCIAiC0OMQBYggCIIgCIIgCIIgCIIgCIIgCD0OUYAIgiAIgiAIgiAIgiAIwv+3Zwc0AAAACIPeP7U9HNQAgDsCBAAAAAAAOFMDYlAkf8RZAeEAAAAASUVORK5CYII=I rebased, made my changes and then pushed the changes. I would then create a tester tag. This tag will be used by the tester to test the environment with my changes. They would deploy my changes on an environment and run regression tests. Jenkins is used to track the builds. 
+
+Result 
+
+When in PR the data will be reviewed by 3 PR reviewers, then it will be ready for merge. And can be merged during a merge slot. 
+
+ 
+
+​​☐​ S9: Apply relevant security and resilience techniques to a digital and technology solution. For example, risk assessments, mitigation strategies. 
+
+ 
+
+ 
+
+February 2024  
+
+ 
+
+Situation 
+
+ 
+
+We used the NIST Framework, a cybersecurity framework used to assess the validity and maturity of legal processes and documents.  
+
+ 
+
+Task 
+
+The task was to interview the client and conduct a maturity assessment to assess the resilience of the systems used by the client. 
+
+ 
+
+Action 
+
+I also wrote risk registers for these maturity assessments that the client would use to improve their maturity ratings.  
+
+Result 
+
+I was able to deliver the deliverables to be used in BAU for the client so that the client could conduct future maturity assessments. 
+
+​​☐​ S10: Initiate, design, implement and debug a data product for a digital and technology solution. 
+
+ 
+
+June 2024 
+
+ 
+
+Situation 
+
+ 
+
+My project is dependent on a functionally database that is used by the client to commit actions.  They generally would be provided information on the customers, and they use that tool to make decisions.  
+Task 
+
+ 
+
+To render what the client will use to analyse their customers, a database is used to store all the possible actions that can be made, how they can be made and by who. 
+
+ 
+Action 
+
+There was a bug where the client couldn’t edit or delete data on the customer. So, I was asked to change some SQL that would make sure that data could be edit or deleted. Then Java would be added so that the logic behind the data change could be rendered. 
+
+w8Lfp6k1yQrpAAAAABJRU5ErkJggg== 
+I then asked for an environment and made the manual tests. F.Y.I - I am not allowed to show the manual test results. Even with redactions. 
+
+ 
+Result 
+
+In the end I was able to render the options to allow the client to edit or delete data. I made a PR review for the ticket and merged it. These SQL changes made changes to the UI so that actions could be made by the user. 
+
+These changes allowed the user to make changes for this specific use case. 
+
+ 
+
+​​☐​ S11: Determine and use appropriate data analysis techniques. For example, Text, Statistical, Diagnostic or Predictive Analysis to assess a digital and technology solutions. 
+
+ 
+
+Insert evidence here -  
+ 
+
+​​☐​ S12: Plan, design and manage simple computer networks with an overall focus on the services and capabilities that network infrastructure solutions enable in an organisational context. 
+
+ 
+
+April 2024  
+
+ 
+
+Situation 
+
+ 
+
+This month in my internal project I took more of Devops role where I was asked to work tickets involving managing the infrastructure of the application. The application was split into the frontend, backend and data storage. Each with their own subnets. The backend and database were in private subnets to avoid unwanted access. With the frontend being in the public subnet to allow internet access from the internet gateway.  
+
+Task 
+
+We needed to set up route tables and DNS zones to allow the subnets to communicate. 
+
+ 
+
+Action 
+
+We created a private gateway in Azure, this would be routed by a route table that matched the IP addresses of the subnets. 
+
+Result 
+
+This allowed communication between the database and the rest of the application. 
+
+Leading and Working Together (Core) 
+
+Standards 
+
+Pass Descriptor 
+
+Distinction Descriptor 
+
+Modules Mapped 
+
+K8 
+
+K9 
+
+K10 
+
+S7 
+
+S8 
+
+B4 
+
+B6 
+
+B7 
+
+Explains how teams work effectively to produce a digital and technology solution applying relevant organisational theories using up to date awareness of trends and innovations. (K8, S7, B4, B6, B7)     
+
+Describes the concepts and principles of leadership and management as they relate to their role and how they apply them. (K9, K10, S8)     
+
+ 
+
+(TOC) 
+
+(SEF) 
+
+(ITPM) 
+
+(PPPD1) 
+
+(BSP) 
+
+(PPPD2) 
+
+(DTS) 
+
+(PPPD3) 
+
+(MP) 
+
+ 
+
+ 
+
+​​☐​ K8: How teams work effectively to produce digital and technology solutions. 
+
+ 
+ 
+
+​​☐​ K9: The concepts and principles of leadership. 
+
+ 
+
+Insert evidence here -  
+ 
+
+​​☐​ K10: Management techniques and theories. For example, effective decision making, delegation and planning methods, time management and change management. 
+
+ 
+
+Insert evidence here -  
+ 
+
+​​☐​ S7: Work effectively within teams, leading on appropriate digital technology solution activities. 
+
+ 
+July 2024 
+
+ 
+
+Situation 
+
+ 
+
+This new project is quite a slow project because it is full of many larger component's teams and testing environments. 
+
+ 
+
+Task 
+
+The task was to make changes to the codebase logic, test it locally then test it in an environment. Then send it off to a tester. The problem lies in that there is a select few of environments we can use split between several teams. This can lead to delayed usage. 
+
+ 
+
+Action 
+
+To get access to an environment I messaged the testers using the environment to coordinate when I can use it for my tests. They gave me the environment once they were finished so I could make my tests. The sprint ended in a week from now when the merge slot also was. So, I needed to get the changes tested and in PR review as quick as possible. 
+
+uR8kWzhwTC4AAAAASUVORK5CYII= 
+
+hMcAAAAASUVORK5CYII= 
+
+ 
+
+Result 
+
+In the end I was able to make my tests in the environment and push it to the testers and complete my PR review in time for the merge slot and end of sprint. 
+
+ 
+
+​​☐​ S8: Apply relevant organisational theories. For example, change management principles, marketing approaches, strategic practice, and IT service management to a digital and technology solutions project. 
+
+ 
+
+Insert evidence here -  
+​​☐​ B4: Commits to continuous professional development; maintaining their knowledge and skills in relation to developments in digital and technology solutions that influence their work. 
+
+ 
+
+Insert evidence here -  
+ 
+
+​​☐​ B6: Participates in and shares best practice in their organisation, and the wider community for aspects relevant to digital and technology solutions. 
+
+ 
+
+April 2024  
+
+Situation 
+
+We used Gitlab to store our repositories as well as for our ticketing provider, in devops there are a lot of secret keys and environmental variables that we use. So, the provisioning and storage of these values is taken very seriously. The terraform state also needs to be managed by the developers. This required my team to send me the terraform.tfvars for variables.  
+
+Task 
+
+I was asked to setup the environmental variables on my machine locally. 
+
+Action 
+
+The URLs for secret keys in azure key vault. As well as setting up he terraform.tfstate, which is a universal index of all the changes done in terraform.  
+
+Result 
+
+I followed all the steps to provide myself the correct access and finally set up my environment locally correctly. This allowed me to make my changes and deployments to Azure using Terraform. 
+
+ 
+
+ 
+
+​​☐​ B7: Maintains awareness of trends and innovations in the subject area, utilising a range of academic literature, online sources, community interaction, conference attendance and other methods which can deliver business value. 
+
+ 
+
+Insert evidence here -  
+ 
+
+Social Infrastructure - Legal, Ethical and Sustainability (Core) 
+
+Standards 
+
+Pass Descriptor 
+
+Distinction Descriptor 
+
+Modules Mapped 
+
+K19 
+
+K20 
+
+S15 
+
+B1 
+
+B2 
+
+B8 
+
+Applies relevant legal, ethical, social and professional standards to digital and technology solutions considering both technical and non-technical audiences and in line with organisational guidelines. (K19, S15, B1, B2, B5) 
+
+Explains sustainable development approaches within digital technologies as they relate to their role including diversity and inclusion. (K20, B8) 
+
+ 
+
+Justifies the application of relevant legal, ethical, social and professional standards to digital and technology solutions. (K19, S15) 
+
+Evaluates the impact of sustainable digital technology practices of their organisation. (K20)    
+
+(PPPD1) 
+
+(PPPD2) 
+
+(PRP) 
+
+(DTS) 
+
+(PPPD3) 
+
+(CIDT) 
+
+(MP) 
+
+ 
+
+ 
+
+​​☐​ K19: Relevant legal, ethical, social and professional standards to a digital and technology solution. For example, Diversity, Accessibility, Intellectual Property, Data Protection Acts, Codes of Practice, Regulatory and Compliance frameworks. 
+
+ 
+
+Insert evidence here -  
+ 
+
+​​☐​ K20: Sustainable development approaches as applied to digital and technology solutions such as green computing. 
+
+ 
+
+Insert evidence here -  
+ 
+
+​​☐​ S15: Apply relevant legal, ethical, social and professional standards to a digital and technology solution. 
+
+ 
+
+Insert evidence here -  
+ 
+
+​​☐​ B1: Has a strong work ethic and commitment in order to meet the standards required. 
+
+ 
+Februray 2024  
+
+ 
+
+Situation 
+
+My partner left for annual leave this month where there was a considerable number of deliverables due for this month.  
+
+ 
+
+Task 
+
+ 
+
+This meant that I had to take on the delivery of these deliverables as well as juggle my Software Engineering and IT Project management Assignments.  
+
+ 
+
+Action 
+
+I delivered a large deliverable the equivalent of 3 deliverables. As well as overseeing 3 more deliverables.  
+
+ 
+
+Result 
+
+ 
+
+By the end of the month, I successfully helped deliver all the deliverables in a  
+
+timely manner as well as produced the summary reports. 
+
+​​☐​ B2: Reliable, objective and capable of both independent and team working. 
+
+March 2024 
+
+Situation 
+
+ 
+
+I worked with another colleague to produce the summary reports for BAU. There were some gaps in the reports.  
+
+ 
+
+Task 
+
+As a result, I had to book a meeting with a stakeholder and individually fill in the gaps.  
+
+ 
+
+Action 
+
+I conducted the maturity assessment and filled in the required information and transferred it into the summary report.  
+
+ 
+
+Result 
+
+ 
+
+Conclusively I independently filled in the gaps of a deliverable that was of lower quality and I worked with the rest of the team to generate the summary reports. 
+
+ 
+
+​​☐​ B8: Champions diversity and inclusion in their work ensuring that digital technology solutions are accessible. 
+
+ 
+
+Insert evidence here -  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Underlying Principles (Software Engineer) 
+
+Standards 
+
+Pass Descriptor 
+
+Distinction Descriptor 
+
+Modules Mapped 
+
+K21 
+
+K22 
+
+K23 
+
+Describes scenarios covering all stages of a development lifecycle, identifying techniques and methods are applied in each case. (K21/SEK1) 
+
+Explains the principles of a range of development techniques, for each stage of the software development cycle that produce artefacts and the contexts in which they can be applied. (K22/SEK2) 
+
+Explains the principles of a range of development methods and approaches and the contexts in which they can be applied. (K23/ SEK3) 
+
+ 
+
+(SEA) 
+
+(SEDO) 
+
+ 
+
+ 
+
+​​☐​ K21: How to operate at all stages of the software development life cycle and how each stage is applied in a range of contexts. For example, requirements analysis, design, development, testing, implementation. 
+
+ 
+
+May 2024 
+
+ 
+
+Situation 
+
+When starting on an issue we are provided a ticket on Jira. An update will normally be made in the daily startup on the progress on these tickets. 
+
+Task 
+
+We would check what the requirements of the ticket are and determine who we need to contact for extra information and how we can tackle it. 
+
+Action 
+
+We would determine the repos to make changes to, checkout to a new branch. Then make those changes. We would then push it and deploy it using Jenkins. In this case I also had to make changes to a visual tool used in the project to align with the code. I then manually tested the changes on the frontend. 
+Result 
+
+In the end, I was able to finish the ticket and test the changes manually on the frontend. 
+
+​​☐​ K22: Principles of a range of development techniques, for each stage of the software development cycle that produce artefacts and the contexts in which they can be applied. For example UML, unit testing, programming, debugging, frameworks, architectures. 
+
+ 
+
+ 
+
+​​☐​ K23: Principles of a range of development methods and approaches and the contexts in which they can be applied. For example Scrum, Extreme Programming, Waterfall, Prince2, TDD. 
+
+Technical Solutions (Software Engineer) 
+
+ 
+
+​​☐​ K24: How to interpret and implement a design, compliant with functional, non-functional and security requirements including principles and approaches to addressing legacy software development issues from a technical and socio-technical perspective. For example architectures, languages, operating systems, hardware, business change. 
+
+ 
+
+June 2024 
+
+ 
+
+Situation 
+
+ 
+
+My project has legacy software and newer software used in conjunction. The legacy software is used by users who have older systems and requirements. 
+
+ 
+Task 
+
+ 
+
+The api requests used between the old and new versions of the software can have a mismatch sometimes and can cause errors on the frontend. As a result, for each important process, the new version and old version translations need to be aligned. 
+ 
+
+A user processed on the older system would have different data structures and JSON formatting, ID’s etc than the newer system users. 
+
+The older systems IDs to identify the user uses a different prefix and format to the new system ID’s. This would cause logical errors on what is rendered.  
+Programatical logic is required to differentiate the old system users and new system users. 
+ 
+
+ 
+Action 
+
+ 
+I identified the places in which the errors were occurring, and used the old version to make the new version api requests align with the backend logic, then I applied it to the frontend and tested it. This is the code that implemented this logic.   
+
+l9P3RLJDD0AAAAAASUVORK5CYII= 
+
+Once the changes have been made, I need to manually test the changes. I messaged a colleague to access an environment and tested the changes.  
+
+ 
+Result 
+
+ 
+
+The result I was looking for was that if a user using the older system made and action or change it would send the user to a not available page rather than throwing an error message. I can’t show screenshots of the manual test however in the end the correct redirections were made. 
+
+ 
+
+​​☐​ K28: Approaches to effective team work and the range of software development tools supporting effective teamwork. For example, configuration management, version control and release management. 
+
+ 
+
+Insert evidence here -  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Standards 
+
+Pass Descriptor 
+
+Distinction Descriptor 
+
+Modules Mapped 
+
+K24 
+
+K28 
+
+Describes. how to interpret and implement a design, compliant with functional, non-functional and security requirements. K24/SEK4 
+
+Describes how tools that support teamwork can be used effectively. K28/SEK8 
+
+ 
+
+(SEA) 
+
+(SEDO) 
+
+ 
+
+ 
+
+ 
+
+Innovation and Response (Software Engineer) 
+
+ 
+
+​​☐​ S20: Respond to changing priorities and problems arising within software engineering projects by making revised recommendations, and adapting plans as necessary, to fit the scenario being investigated. 
+
+ 
+
+Insert evidence here -  
+ 
+
+​​☐​ S21: Determine, refine, adapt and use appropriate software engineering methods, approaches and techniques to evaluate software engineering project outcomes. 
+
+ 
+
+July 2024  
+
+ 
+
+Situation 
+
+ 
+
+In order to test our changes, the changes must be deployed to an environment then tested. This can be slow and difficult because only one person at a time can use an environment. As a result, a local environment deployment is being developed by the team. 
+
+Task 
+
+There are separate docker containers for the CSS, static files and main routes. To deploy each a developer would have to manual deploy each container with a command. 
+
+ 
+Action 
+
+I added changes that made it so that all of the containers could be run with a single command. I pushed it and merged it into master. 
+
+ 
+
+Result  
+
+ 
+
+This meant that there would be less confusion on how to setup and use the local setup. Simplifying the development process. And speeding up the testing process. 
+
+ 
+
+ 
+
+Standards 
+
+Pass Descriptor 
+
+Distinction Descriptor 
+
+Modules Mapped 
+
+S20 
+
+S21 
+
+Describes how they respond to changing priorities and problems arising within software engineering projects by making revised recommendations, and adapting plans as necessary, to fit the scenario being investigated. (S20/SES5) 
+
+Explains how they determine, refine, adapt and use appropriate software engineering methods, approaches and techniques to evaluate software engineering project outcomes. (S21/SES6) 
+
+ 
+
+Demonstrates how their actions have influenced the creation of appropriate plans within teams and contributed to project outcomes. (S20/SES5) 
+
+Compares and contrasts how they respond to changing priorities and problems arising within software engineering projects by making revised recommendations, and adapting plans as necessary, to fit the scenario being investigated. (S20/SES5) 
+
+(SEA) 
+
+(SEDO) 
+
+ 
+
+ 
+
+Legal, Ethics and Landscape (Software Engineer) 
+
+Standards 
+
+Pass Descriptor 
+
+Distinction Descriptor 
+
+Modules Mapped 
+
+S23 
+
+Describes how they extend and update software development knowledge with evidence from professional and academic sources by undertaking appropriate research to inform best practice and lead improvements in the organisation. (S23/SES8) 
+
+ 
+
+(SEDO) 
+
+ 
+
+ 
+
+ 
+
+​​☐​ S23: Extend and update software development knowledge with evidence from professional and academic sources by undertaking appropriate research to inform best practice and lead improvements in the organisation. 
+
+ 
+
+Insert evidence here -  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Underlying Principles (IT Consultant) 
+
+Standards 
+
+Pass Descriptor 
+
+Distinction Descriptor 
+
+Modules Mapped 
+
+K30 
+
+K31 
+
+K34 
+
+K35 
+
+K36 
+
+Explains how consulting interfaces with project management, business analysis and business management. (K30/ITK2) 
+
+Explains the principles of change management within organisations. (K31/ITK3) 
+
+Compares and contrasts approaches to analytical and critical thinking to define business problems objectively and create value for the client. (K32/ITK6) 
+
+Describes questioning strategies and active listening to ensure all requirements are gathered. (K35/ITK7) 
+
+Explains the ethical and legal requirements in client/provider relationships. (K36/ITK8) 
+
+ 
+
+ 
+
+(BDC) 
+
+(C) 
+
+ 
+
+​​☐​ K30: How consulting interfaces with project management, business analysis and business management. 
+
+ 
+
+Insert evidence here -  
+ 
+
+​​☐​ K31: Principles of change management within organisations. 
+
+ 
+
+Insert evidence here -  
+ 
+
+​​☐​ K34: Approaches to analytical and critical thinking to define business problems objectively and create value for the client. 
+
+ 
+
+Insert evidence here -  
+ 
+
+​​☐​ K35: Questioning strategies and active listening to ensure all requirements are gathered. 
+
+ 
+
+Insert evidence here -  
+ 
+
+​​☐​ K36: The ethical and legal requirements in client and provider relationships. 
+
+ 
+
+Insert evidence here -  
+ 
+
+ 
+
+ 
+
+Innovation and Response (IT Consultant) 
+
+Standards 
+
+Pass Descriptor 
+
+Distinction Descriptor 
+
+Modules Mapped 
+
+S25 
+
+S27 
+
+Evaluates how they effectively communicate value add to the client through a variety of media in a professional setting through performing socio-technical process improvements in a range of environments. (S25/ITS2) 
+
+Explain how they participate in walk-throughs for IT, to identify, document and evaluate key risks within a client’s organisation. (S27/ITS4) 
+
+ 
+
+Compares and contrasts how they effectively communicate value add to the client through a variety of media in a professional setting through performing socio-technical process improvements in a range of environments. (S25/ITS2) 
+
+Critically evaluates how they participate in walk-throughs for IT, to identify, document and evaluate key risks within a client’s organisation. (S27/ITS4) 
+
+(BDC) 
+
+(C) 
+
+ 
+
+​​☐​ S25: Effectively communicate value add to the client through a variety of media. For example, presentations, written reports, Storytelling in a professional setting through performing socio-technical process improvements in a range of environments. 
+
+ 
+
+Insert evidence here -  
+ 
+
+​​☐​ S27: Participate in walk-throughs for Information Technologies, to identify, document and evaluate key risks within a client’s organisation. 
+
+ 
+
+Insert evidence here -  
+ 
+
+ 
+
+ 
+
+ 
+
+Technical Solutions (IT Consultant) 
+
+ 
+
+ 
+
+​​☐​ S29: Effect change within an organisation through evaluation of a new system, process or initiative. 
+
+ 
+
+Insert evidence here -  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Standards 
+
+Pass Descriptor 
+
+Distinction Descriptor 
+
+Modules Mapped 
+
+S29 
+
+Evaluates how they effect change within an organisation through evaluation of a new system, process or initiative. (S29/ITS6) 
+
+ 
+
+(C) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Underlying Principles (Data Analyst) 
+
+Standards 
+
+Pass Descriptor 
+
+Distinction Descriptor 
+
+Modules Mapped 
+
+K53 
+
+K55 
+
+K57 
+
+Describes the barriers that exist to effective data analysis between analysts and their stakeholders and how to avoid or resolve these. (K53/DAK1) 
+
+Explains data formats, structures, architectures and data delivery methods including “unstructured” data. (K55/DAK3)  
+
+Explains approaches to data processing and storage, database systems, data warehousing and online analytical processing, data-driven decision making and the good use of evidence and analytics in making choices and decisions. (K57/DAK5) 
+
+ 
+
+(PDS) 
+
+(ADMV) 
+
+ 
+
+ 
+
+​​☐​ K53: The barriers that exist to effective data analysis between analysts and their stakeholders and how to avoid or resolve these. 
+
+ 
+
+Insert evidence here -  
+ 
+
+​​☐​ K55: Data formats, structures, architectures and data delivery methods including “unstructured” data. 
+
+ 
+
+Insert evidence here -  
+ 
+
+​​☐​ K57: Approaches to data processing and storage, database systems, data warehousing and online analytical processing, data-driven decision making and the good use of evidence and analytics in making choices and decisions. 
+
+ 
+
+Insert evidence here -  
+ 
+
+ 
+
+ 
+
+Technical Solutions (Data Analyst) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+​​☐​ K59: How Data Analytics can be applied to improve an organisation’s processes, operations and outputs. 
+
+ 
+
+Insert evidence here -  
+Standards 
+
+Pass Descriptor 
+
+Distinction Descriptor 
+
+Modules Mapped 
+
+K59 
+
+Describes how Data Analytics can be applied to improve an organisation’s processes, operations and outputs. (K59/DAK7) 
+
+Evaluates how data analytics can be applied to improve an organisation’s processes, operations and outputs. (K59/DAK7) 
+
+(ADMV) 
+
+ 
+
+ 
+
+Legal, Ethics and Landscape (Data Analyst) 
+
+ 
+
+​​☐​ K60: How data and analysis may exhibit biases and prejudice. How ethics and compliance affect Data Analytics work, and the impact of international regulations. For example, General Data Protection Regulation, Data Protection Act 2018. 
+
+ 
+
+Insert evidence here -  
+Standards 
+
+Pass Descriptor 
+
+Distinction Descriptor 
+
+Modules Mapped 
+
+K60 
+
+Describes how data and analysis may exhibit biases and prejudice.  Describes how ethics and compliance affect Data Analytics work, and the impact of international regulations. (K60/DAK8)  
+
+ 
+
+(PDS) 
+
+ 
+
+ 
+
+Innovation and Response (Data Analyst) 
+
+Standards 
+
+Pass Descriptor 
+
+Distinction Descriptor 
+
+Modules Mapped 
+
+S48 
+
+S49 
+
+S51 
+
+Describes how they define Data Requirements and perform Data Collection, Data Processing and Data Cleansing. (S48/DAS1) 
+
+Describes how they apply different types of Data Analysis, as appropriate, to drive improvements for specific business problems. (S49/DAS2) 
+
+Describes how they have encountered barriers to effective analysis both by analysts and their stakeholders within data analysis projects. (S51/DAS4) 
+
+ 
+
+Evaluates how they define Data Requirements and perform Data Collection, Data Processing and Data Cleansing. (S48/DAS1) 
+
+Evaluates how they apply different types of Data Analysis, as appropriate, to drive improvements for specific business problems. (S49/DAS2) 
+
+Evaluates how they identify barriers to effective analysis encountered both by analysts and their stakeholders within data analysis projects. (S51/DAS4) 
+
+(PDS) 
+
+(ADMV) 
+
+ 
+
+ 
+
+ 
+
+​​☐​ S48: Define Data Requirements and perform Data Collection, Data Processing and Data Cleansing. 
+
+ 
+
+Insert evidence here -  
+ 
+
+​​☐​ S49: Apply different types of Data Analysis, as appropriate, to drive improvements for specific business problems. 
+
+ 
+
+Insert evidence here -  
+ 
+
+​​☐​ S51: Identify barriers to effective analysis encountered both by analysts and their stakeholders within data analysis projects. 
+
+ 
+
+Insert evidence here -  
+ Technical Solutions (Network Engineer) 
+
+Standards 
+
+Pass Descriptor 
+
+Distinction Descriptor 
+
+Modules Mapped 
+
+K63 
+
+K67 
+
+K68 
+
+S58 
+
+S61 
+
+Explains the benefits and risks of cloud computing and the common integration deployments (private, public, hybrid) including the benefits and risks of virtualisation as a concept; key features of virtualisation and current cloud platforms available. (K63/NEK3) 
+
+Explains Software Defined Networking and Network Function Virtualisation Core Principles. (K67/NEK7) 
+
+Describe the key elements of mobile networks including some specific key functions and communication concepts. (K68/NEK8) 
+
+Explains how they undertake network performance monitoring, including capacity management and auditing of IP addressing. (S58/NES3) 
+
+Explains how they secure network systems, apply security policies, access and firewalls. (S61/NES6) 
+
+Critically provide a comparative analysis between different cloud models stating their risks, strengths and weaknesses, considering their organisational needs. (K63/NEK3) 
+
+Critically evaluates how they undertake network performance monitoring, including capacity management and auditing of IP addressing. (S58/NES3) 
+
+(CSA) 
+
+(SR) 
+
+(ANWD) 
+
+ 
+
+ 
+
+​​☐​ K63: The benefits and risks of cloud computing and the common integration deployments (private, public, hybrid). Including the benefits and risks of virtualisation as a concept; key features of virtualisation and current cloud platforms available. 
+
+ 
+
+Insert evidence here -  
+ 
+
+​​☐​ K67: SDN (Software Defined Networking) and Network Function Virtualisation Core Principles. For example, Control Plane Separation, flexibility, overlay networks, disassociation of software and hardware layers. 
+
+ 
+
+Insert evidence here -  
+ 
+
+​​☐​ K68: Key elements of mobile networks. For example RAN (Radio Access Network), EPC (Evolved Packet Core), IMS (IP Multimedia Subsystem) including some specific key functions such as S/P/U-Gateways and the concepts in communicating over free-space media such as interference, ground bounce, encryption and in mobile endpoint platforms such as tracking user location and roaming. 
+
+ 
+
+Insert evidence here -  
+ 
+
+​​☐​ S58: Monitor performance and ensure networks are configured correctly and perform as expected by designers or architects. Undertake capacity management and audit of IP addressing and hosted devices. 
+
+ 
+
+Insert evidence here -  
+ 
+
+​​☐​ S61: Secure network systems by establishing and enforcing policies, and defining and monitoring access. Support and administer firewall environments in line with IT security policy. 
+
+ 
+
+Insert evidence here -  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Underlying Principles (Network Engineer) 
+
+ 
+
+ 
+
+​​☐​ K64: The main factors that affect network performance, and how to mitigate these on network performance by implementing changes to QoS. For example, Traffic Shaping, Policing, Queuing, Topology (physical and logical), and Network Policy (Traffic Analysis, DPI (Deep Packet Inspection). 
+
+ 
+
+Insert evidence here –  
+Standards 
+
+Pass Descriptor 
+
+Distinction Descriptor 
+
+Modules Mapped 
+
+K64 
+
+K65 
+
+Describe key factors that affect network performance and provide some mitigation strategies to increase quality of service. (K64/NEK4) 
+
+Explains the principles of failure modes in protocols and how they could be addressed. (K65/NEK5) 
+
+ 
+
+(ANWD) 
+
+ 
+
+​​☐​ K65: Principles of failure modes in protocols. For example, why a protocol may ‘hang’ and the effect of data communication errors and approaches to addressing failures to optimise network performance. 
+
+ 
+
+Insert evidence here –  
+ 
+
+Innovation and Response (Network Engineer) 
+
+Standards 
+
+Pass Descriptor 
+
+Distinction Descriptor 
+
+Modules Mapped 
+
+S59 
+
+Explain approaches for investigating, troubleshooting and resolving network faults. (S59/NES4) 
+
+Compare and contrast approaches for investigating, troubleshooting and resolving network faults. (S59/NES4) 
+
+(SR) 
+
+ 
+
+ 
+
+​​☐​ S59: Investigate, troubleshoot and resolve data network faults in local and wide area environments, using information from multiple sources, Physically or Remotely by console connection. Recommend and implement short term fixes to restore service and, or, quality of experience and recommend longer term changes to prevent recurrence or reduce impact of future occurrences. 
+
+Insert evidence here -  

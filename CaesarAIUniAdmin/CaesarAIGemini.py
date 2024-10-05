@@ -2,10 +2,12 @@ import os
 import io
 import base64
 import json
+import markdown
+from bs4 import BeautifulSoup
 import google.generativeai as genai
 from PIL import Image
 from dotenv import load_dotenv
-load_dotenv(".env")
+load_dotenv("CaesarAIUniAdmin/.env")
 class CaesarAIGemini:
   def __init__(self) -> None:
     genai.configure(api_key = (os.getenv("GOOGLE_AI_STUDIO_API_KEY")))
@@ -46,7 +48,10 @@ class CaesarAIGemini:
         #print(result)
         for statement in result:
           yield statement
-  
+  def convert_markdown_to_text(self,report):
+      html = markdown.markdown(report)
+      text = '\n'.join(BeautifulSoup(html,"lxml").findAll(string=True))
+      return text  
 if __name__ == "__main__":
   caesar = CaesarAIGemini()
   for i in caesar.send_message("hi"):
