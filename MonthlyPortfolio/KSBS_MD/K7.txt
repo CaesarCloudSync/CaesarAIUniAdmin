@@ -1,0 +1,50 @@
+**Evidence: K7: The roles, functions and activities within digital technology solutions within an organisation. + 4 evidences accepted**
+
+**February 2024**
+
+**Situation**
+
+During my cybersecurity project, I participated in interviewing service owners about cybersecurity posture. We used a Technical Discovery Assessment (TDA) document to help understand the software architecture and applications used within the organization. (screenshot of TDA document)
+
+**Task**
+
+This required me to learn about the architectures and applications used. I then interviewed the client using that information as a base. (screenshot of interview notes)
+
+**Action**
+
+I provided recommendations for improving security posture, including specific vulnerabilities discovered and mitigation strategies. (screenshot of vulnerability assessment report)
+
+**Result**
+
+In the end, we were able to provide an assessment of their security, we provided recommendations on how to mitigate vulnerabilities, and identified the risks of the systems. (screenshot of security assessment report)
+
+**Core Technical Concepts (Core)**
+
+**Roles, Functions, and Activities within Digital Technology Solutions within an Organization**
+
+* **Role:** Cybersecurity Analyst
+* **Function:** Identify and assess cybersecurity vulnerabilities within digital technology solutions
+* **Activities:**
+    * Interviewed service owners to gather information about software architecture and applications
+    * Reviewed software to identify vulnerabilities
+    * Provided recommendations for improving security posture
+
+**Benefits to the Business**
+
+* Improved security posture
+* Reduced risk of data breaches
+* Improved compliance with cybersecurity regulations
+
+**Security Improvements Suggested**
+
+* Implement multi-factor authentication
+* Encrypt sensitive data
+* Patch software regularly
+* Conduct regular security audits
+
+**How Security Improvements Would Enable Software to Perform Better**
+
+* **Improved security:** Reduced risk of data breaches and unauthorized access
+* **Increased reliability:** Reduced downtime due to security incidents
+* **Improved performance:** Reduced overhead from security measures
+* **Enhanced compliance:** Meet regulatory requirements and avoid penalties

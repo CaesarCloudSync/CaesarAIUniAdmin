@@ -1,0 +1,29 @@
+**Evidence: S10: Initiate, design, implement and debug a data product for a digital and technology solution.**
+
+**June 2024**
+
+**Situation**
+
+My project is dependent on a functional database that is used by the client to commit actions. The client uses the database to make decisions about their customers.
+
+**Task**
+
+To render what the client will use to analyze their customers, a database is used to store all the possible actions that can be made, how they can be made, and by whom.
+
+**Action**
+
+There was a bug where the client couldn’t edit or delete data on the customer. So, I was asked to change some SQL that would make sure that data could be edited or deleted. Then Java would be added so that the logic behind the data change could be rendered. (screenshot of SQL changes)
+
+I then asked for an environment and made the manual tests. (screenshot of manual test results)
+
+**Result**
+
+In the end, I was able to render the options to allow the client to edit or delete data. I made a PR review for the ticket and merged it. These SQL changes made changes to the UI so that actions could be made by the user. (screenshot of UI changes)
+
+These changes allowed the user to make changes for this specific use case.
+
+**Benefits of the Changes**
+
+* Improved user experience: The changes made it easier for the client to edit and delete data.
+* Increased efficiency: The changes reduced the time it took for the client to make changes to customer data.
+* Enhanced data quality: The changes helped to ensure that the data in the database was accurate and up-to-date.

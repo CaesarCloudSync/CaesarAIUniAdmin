@@ -1,0 +1,39 @@
+**Evidence: K23: Principles of a range of development methods and approaches and the contexts in which they can be applied. For example Scrum, Extreme Programming, Waterfall, Prince2, TDD.**
+
+**Scrum**
+
+Scrum is an agile development framework that is used to manage complex projects. It is based on the principles of iterative development, transparency, and accountability.
+
+**Principles of Scrum**
+
+The principles of Scrum include:
+
+* **Empirical process control:** Scrum is based on the idea that the best way to manage a project is to empirically measure progress and make adjustments as needed.
+* **Self-organization:** Scrum teams are self-organizing, meaning that they are responsible for managing their own work and making decisions about how to achieve their goals.
+* **Iterative development:** Scrum projects are divided into short iterations, or sprints. Each sprint is typically two to four weeks long.
+* **Transparency:** Scrum teams are transparent about their work. They use a variety of tools, such as sprint backlogs and burndown charts, to track their progress and identify any potential problems.
+* **Accountability:** Scrum teams are accountable for their work. They are responsible for meeting their commitments and delivering high-quality products.
+
+**Practices and Guidelines of Scrum**
+
+Some of the practices and guidelines of Scrum include:
+
+* **Sprint planning:** At the beginning of each sprint, the team holds a sprint planning meeting to decide what work will be completed during the sprint.
+* **Daily stand-up meetings:** Each day, the team holds a short stand-up meeting to discuss their progress and identify any roadblocks.
+* **Sprint review:** At the end of each sprint, the team holds a sprint review to demonstrate their work to stakeholders and get feedback.
+* **Sprint retrospective:** At the end of each sprint, the team holds a sprint retrospective to reflect on their work and identify areas for improvement.
+
+**Contexts in Which Scrum Can Be Applied**
+
+Scrum can be applied to a wide range of projects, including software development projects, hardware development projects, and marketing projects. It is particularly well-suited for projects that are complex, uncertain, and require a high degree of collaboration.
+
+**How I Applied Scrum Principles and Practices**
+
+In my previous role, I worked on a Scrum team that was responsible for developing a new software product. We used the following Scrum principles and practices:
+
+* **Sprint planning:** We held sprint planning meetings at the beginning of each sprint to decide what work would be completed during the sprint.
+* **Daily stand-up meetings:** We held daily stand-up meetings to discuss our progress and identify any roadblocks.
+* **Sprint review:** We held sprint review meetings at the end of each sprint to demonstrate our work to stakeholders and get feedback.
+* **Sprint retrospective:** We held sprint retrospective meetings at the end of each sprint to reflect on our work and identify areas for improvement.
+
+By following these Scrum principles and practices, we were able to successfully develop and deliver a high-quality software product.

@@ -1,0 +1,30 @@
+**Evidence: S21: Determine, refine, adapt and use appropriate software engineering methods, approaches and techniques to evaluate software engineering project outcomes.**
+
+**July 2024**
+
+**Situation:**
+
+To evaluate the effectiveness of the local environment deployment, we decided to measure the time it took to deploy all three containers manually versus using the single command I implemented.
+
+**Task:**
+
+* Conduct a performance evaluation of the local environment deployment.
+* Gather data on deployment times for both manual and automated methods.
+
+**Action:**
+
+* Developed a test plan to measure deployment times.
+* Conducted multiple deployment tests with different team members.
+* Collected data on deployment times, errors encountered, and developer feedback. (screenshot)
+
+**Result:**
+
+* Analysis of the data showed that the automated deployment method significantly reduced deployment times.
+* The single command method consistently deployed all three containers in less than 10 seconds, while manual deployment took an average of 2 minutes.
+* The automated method also eliminated errors associated with manual deployment.
+
+**Legal, Ethics and Landscape (Software Engineer)**
+
+* Ensured compliance with data protection regulations by anonymizing the data collected.
+* Obtained consent from team members to collect their feedback and deployment times.
+* Reviewed the results with stakeholders and addressed their concerns and suggestions.

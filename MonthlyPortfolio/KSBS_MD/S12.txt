@@ -1,0 +1,35 @@
+**Evidence: S12: Plan, design and manage simple computer networks with an overall focus on the services and capabilities that network infrastructure solutions enable in an organizational context.**
+
+**April 2024**
+
+**Situation**
+
+In my internal project, I took on more of a DevOps role and was asked to work on tickets involving managing the infrastructure of the application. The application was split into the frontend, backend, and data storage, each with its own subnets. The backend and database were in private subnets to avoid unwanted access, while the frontend was in the public subnet to allow internet access from the internet gateway.
+
+**Task**
+
+We needed to set up route tables and DNS zones to allow the subnets to communicate.
+
+**Action**
+
+**What is a Route Table?**
+
+A route table is a set of rules that control how traffic is forwarded within a virtual network. Each subnet in a virtual network has a route table associated with it.
+
+**What are DNS Zones?**
+
+DNS zones are used to map domain names to IP addresses. They are used to resolve the hostnames of computers and other devices on the network.
+
+**Setting Up Route Tables and DNS Zones**
+
+We created a private gateway in Azure. This gateway was routed by a route table that matched the IP addresses of the subnets. We also created a DNS zone to map the domain name of the application to the IP address of the private gateway. (screenshot of route table and DNS zone configuration)
+
+**Result**
+
+This allowed communication between the database and the rest of the application.
+
+**Benefits of the Changes**
+
+* Improved network performance: The route tables and DNS zones helped to improve network performance by reducing latency and packet loss.
+* Enhanced security: The private gateway and route tables helped to enhance security by preventing unauthorized access to the database.
+* Increased reliability: The DNS zones helped to increase reliability by ensuring that the application could always resolve the hostname of the database.

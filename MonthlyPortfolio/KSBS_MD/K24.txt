@@ -1,0 +1,51 @@
+**Evidence: K24: How to interpret and implement a design, compliant with functional, non-functional and security requirements including principles and approaches to addressing legacy software development issues from a technical and socio-technical perspective. For example architectures, languages, operating systems, hardware, business change.**
+
+**June 2024**
+
+**Situation**
+
+My project has legacy software and newer software used in conjunction. The legacy software is used by users who have older systems and requirements.
+
+**Task**
+
+The API requests used between the old and new versions of the software can have a mismatch sometimes and can cause errors on the frontend. As a result, for each important process, the new version and old version translations need to be aligned.
+
+**Current API Design**
+
+The current API design uses different data structures, JSON formatting, and IDs for users in the old and new systems. This can cause logical errors on the frontend when users from the old system attempt to use the new system.
+
+**New API Design**
+
+The new API design will need to include the following changes:
+
+* **Use the same data structures and JSON formatting for users in both the old and new systems.**
+* **Use the same ID format for users in both the old and new systems.**
+* **Add programmatic logic to differentiate between old system users and new system users.**
+
+**Action**
+
+**How I Developed the New Version API Requests**
+
+I identified the places in which the errors were occurring and used the old version API requests as a reference to make the new version API requests align with the backend logic. (screenshot of code changes)
+
+I also added programmatic logic to differentiate between old system users and new system users. (screenshot of code changes)
+
+**How I Applied the API to the Frontend**
+
+Once I had made the changes to the API, I applied them to the frontend. (screenshot of frontend changes)
+
+**Testing**
+
+Once the changes had been made, I manually tested them. I messaged a colleague to access an environment and tested the changes. (screenshot of manual test results)
+
+**Result**
+
+The result I was looking for was that if a user using the older system made an action or change, it would send the user to a not available page rather than throwing an error message. In the end, the correct redirections were made.
+
+**Benefits of the New API Design**
+
+The new API design will:
+
+* **Improve the user experience:** By eliminating the errors that were occurring, the new API design will improve the user experience for users of both the old and new systems.
+* **Increase efficiency:** By making it easier for users to use both the old and new systems, the new API design will increase efficiency.
+* **Reduce costs:** By reducing the number of errors that occur, the new API design will reduce costs.

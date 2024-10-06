@@ -1,0 +1,45 @@
+**Evidence: K21: How to operate at all stages of the software development life cycle and how each stage is applied in a range of contexts. For example, requirements analysis, design, development, testing, implementation.**
+
+**May 2024**
+
+**Situation**
+
+When starting on an issue, we are provided a ticket on Jira. An update will normally be made in the daily startup on the progress on these tickets.
+
+**Task**
+
+We would check what the requirements of the ticket are and determine who we need to contact for extra information and how we can tackle it.
+
+**Action**
+
+**Stage of the Development Lifecycle**
+
+I operated in the following stages of the software development lifecycle:
+
+* **Requirements analysis:** I analyzed the requirements of the ticket to determine what changes needed to be made.
+* **Design:** I designed the changes that needed to be made.
+* **Development:** I made the changes to the codebase.
+* **Testing:** I manually tested the changes on the frontend.
+* **Implementation:** I pushed the changes to the remote repository and deployed them using Jenkins.
+
+**How I Tackled the Ticket**
+
+(screenshot of Jira ticket)
+
+I started by checking out a new branch from the master branch. I then made the changes to the codebase. (screenshot of code changes)
+
+I also had to make changes to a visual tool used in the project to align with the code. (screenshot of visual tool changes)
+
+Once I had made all of the changes, I pushed them to the remote repository and deployed them using Jenkins. (screenshot of Jenkins build)
+
+I then manually tested the changes on the frontend. (screenshot of manual testing)
+
+**Result**
+
+In the end, I was able to finish the ticket and test the changes manually on the frontend.
+
+**Benefits of Operating at All Stages of the Development Lifecycle**
+
+* **Improved understanding of the software development process:** By operating at all stages of the development lifecycle, I gained a better understanding of the entire process.
+* **Enhanced problem-solving skills:** By working on a variety of tasks at different stages of the development lifecycle, I developed my problem-solving skills.
+* **Increased productivity:** By being able to operate at all stages of the development lifecycle, I was able to be more productive and efficient.

@@ -1,0 +1,43 @@
+**Evidence: B6: Participates in and shares best practice in their organization, and the wider community for aspects relevant to digital and technology solutions.**
+
+**April 2024**
+
+**Situation**
+
+We used GitLab to store our repositories as well as for our ticketing provider. In DevOps, there are a lot of secret keys and environmental variables that we use. So, the provisioning and storage of these values is taken very seriously. The Terraform state also needs to be managed by the developers. This required my team to send me the `terraform.tfvars` for variables.
+
+**Task**
+
+I was asked to set up the environmental variables on my machine locally.
+
+**Action**
+
+**How the Steps I Followed Are Considered Best Practice**
+
+The steps I followed are considered best practice because they help to:
+
+* **Secure secret keys and environmental variables:** By storing these values in a secure location, such as Azure Key Vault, we can help to prevent unauthorized access.
+* **Manage Terraform state effectively:** By using a central Terraform state file, we can ensure that all developers are working from the same source of truth.
+
+**Screenshots**
+
+(screenshot of Azure Key Vault configuration)
+
+(screenshot of Terraform state file)
+
+**Issues That Can Arise for Not Following Best Practices**
+
+If we do not follow best practices for provisioning and storing secret keys and environmental variables, we can run into a number of issues, including:
+
+* **Security breaches:** Unauthorized users could gain access to our secret keys and environmental variables, which could lead to a security breach.
+* **Data loss:** We could lose access to our Terraform state file, which could lead to data loss or corruption.
+
+**Result**
+
+I followed all the steps to provide myself with the correct access and finally set up my environment locally correctly. This allowed me to make my changes and deployments to Azure using Terraform.
+
+**Benefits of Following Best Practices**
+
+* Improved security
+* Reduced risk of data loss
+* Increased efficiency

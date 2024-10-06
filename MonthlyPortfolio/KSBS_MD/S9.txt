@@ -1,0 +1,51 @@
+**Evidence: S9: Apply relevant security and resilience techniques to a digital and technology solution. For example, risk assessments, mitigation strategies.**
+
+**February 2024**
+
+**Situation**
+
+We used the NIST Framework, a cybersecurity framework used to assess the validity and maturity of legal processes and documents.
+
+**Task**
+
+The task was to interview the client and conduct a maturity assessment to assess the resilience of the systems used by the client.
+
+**Action**
+
+**Key Features of the NIST Framework**
+
+The NIST Framework is a comprehensive framework that provides a set of best practices for managing cybersecurity risks. It consists of five core functions:
+
+* Identify
+* Protect
+* Detect
+* Respond
+* Recover
+
+**What is a Maturity Assessment?**
+
+A maturity assessment is a process of evaluating an organization's cybersecurity posture against a set of best practices. The goal of a maturity assessment is to identify areas where the organization can improve its cybersecurity resilience.
+
+**Risk Registers**
+
+I also wrote risk registers for these maturity assessments that the client would use to improve their maturity ratings. (screenshot of risk register)
+
+**Key Considerations for Completing the Risk Register**
+
+* **Identify the risks:** I identified the risks that could affect the organization's cybersecurity posture.
+* **Assess the risks:** I assessed the likelihood and impact of each risk.
+* **Develop mitigation strategies:** I developed mitigation strategies to reduce the likelihood and impact of each risk.
+
+**Adherence to Company Guidelines**
+
+I adhered to the company guidelines when filling out the risk registers. The guidelines included specific requirements for the format and content of the risk registers.
+
+**Result**
+
+I was able to deliver the deliverables to be used in BAU for the client so that the client could conduct future maturity assessments.
+
+**Benefits of the Risk Registers**
+
+* **Improved risk management:** The risk registers helped the client to identify and manage cybersecurity risks.
+* **Enhanced cybersecurity resilience:** The risk registers helped the client to improve its cybersecurity resilience by reducing the likelihood and impact of cybersecurity incidents.
+* **Compliance with regulations:** The risk registers helped the client to comply with cybersecurity regulations.

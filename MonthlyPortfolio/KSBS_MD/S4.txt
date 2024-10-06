@@ -1,0 +1,31 @@
+**Evidence: S4: Initiate, design, code, test and debug a software component for a digital and technology solution.**
+
+**May 2024**
+
+**Situation**
+
+I joined a new project involving a massive system with many moving components and teams. The project used intricate and specific DevOps tools. (screenshot of DevOps tools)
+
+**Task**
+
+For my first project, I was tasked with transferring SQL commands from one file to another. I created a small script to identify the commands quickly. Once I finished my changes, I needed to follow a specific process to create, push, test, and merge changes into the master branch. This process involved rebasing, pushing, and dealing with merge conflicts. (screenshot of merge conflicts)
+
+**Action**
+
+Before making any changes, I would normally do a `git pull` and `git rebase`. If there were merge conflicts, I would use the merge editor to resolve them. I would then rebase, make my changes, and push the changes. (screenshot of push request)
+
+I would then create a tester tag. This tag would be used by the tester to test the environment with my changes. They would deploy my changes on an environment and run regression tests. Jenkins was used to track the builds. (screenshot of Jenkins build)
+
+When the changes were in a pull request (PR), they would be reviewed by three PR reviewers. Once the PR was approved, it could be merged during a merge slot. (screenshot of PR)
+
+**Debugging**
+
+During the development process, I encountered several errors. I used a combination of tools and techniques to debug and fix the errors.
+
+* **Logging:** I added logging statements to the code to help identify the source of the errors.
+* **Debugger:** I used the debugger to step through the code and identify the specific line of code that was causing the error.
+* **Unit tests:** I wrote unit tests to test the functionality of the code and identify any potential errors.
+
+**Result**
+
+I was able to successfully complete the project and merge my changes into the master branch. The changes were tested and deployed to production, and they resolved the issue that I was working on.

@@ -1,0 +1,48 @@
+**Evidence: S7: Work effectively within teams, leading on appropriate digital technology solution activities.**
+
+**July 2024**
+
+**Situation**
+
+This new project is quite a slow project because it is full of many larger component's teams and testing environments.
+
+**Task**
+
+The task was to make changes to the codebase logic, test it locally, then test it in an environment, and then send it off to a tester. The problem lies in that there is a select few of environments we can use split between several teams. This can lead to delayed usage.
+
+**Action**
+
+**How I Found Out Which Tester to Message**
+
+I used the team's communication channels to find out who was responsible for testing the environment I needed. I also checked the project backlog to see if there were any tickets assigned to specific testers.
+
+**How I Found Out When the Resource Would Be Available**
+
+I messaged the testers and asked them when the environment would be available. I also checked the team's calendar to see if there were any scheduled maintenance or testing activities that would impact the availability of the environment.
+
+**Message Used to Communicate with the Testers**
+
+```
+Hi [Tester Name],
+
+I am working on a task that requires me to test some changes in the [environment name] environment. I understand that you are currently using the environment, so I wanted to ask when you expect to be finished so that I can schedule my tests.
+
+I would appreciate it if you could let me know as soon as possible.
+
+Thanks,
+[My Name]
+```
+
+**Screenshot of the Ticket**
+
+(screenshot of the ticket outlining the urgency of the task and the end of the sprint)
+
+**Result**
+
+In the end, I was able to make my tests in the environment and push it to the testers and complete my PR review in time for the merge slot and end of sprint.
+
+**Benefits of Effective Communication**
+
+* Reduced delays: By communicating effectively with the testers, I was able to avoid delays in getting access to the environment.
+* Improved collaboration: Effective communication helped to improve collaboration between the development and testing teams.
+* Increased productivity: By working together effectively, we were able to increase our productivity and meet the project deadline.

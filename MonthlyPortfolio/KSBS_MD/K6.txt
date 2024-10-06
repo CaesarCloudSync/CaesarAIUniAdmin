@@ -1,0 +1,32 @@
+**Evidence: K6: The approaches and techniques used throughout the digital and technology solution lifecycle and their applicability to an organization’s standards and pre-existing tools.**
+
+**March 2024**
+
+**Situation**
+
+I was assigned to a project where Generative AI was largely used for technology solutions. This led to completing a lot of prompt engineering tasks in Python. (screenshot of Python code)
+
+**Task**
+
+In a sub-section of the project, we were asked to design a program that would produce advertising claims for a company using Generative AI.
+
+**Action**
+
+The notebook we had initially created was purely in notebook form. I transferred the codebase into an object-oriented form and allowed it to be interacted with on a demo basis. (screenshot of object-oriented code)
+
+**Key Considerations for Transferring Code to an Object-Oriented Form**
+
+* **Identify the objects and classes:** I identified the key objects and classes in the problem domain. For example, I created a `Claim` class to represent an advertising claim.
+* **Encapsulate data and behavior:** I encapsulated data and behavior within objects. For example, the `Claim` class has attributes to store the claim text and the product it is for.
+* **Define relationships between objects:** I defined relationships between objects using inheritance and composition. For example, the `Claim` class inherits from a `Text` class.
+* **Follow good coding practices:** I followed good coding practices, such as using descriptive variable names and writing well-commented code.
+
+**Benefits of Object-Oriented Programming**
+
+* **Reusability:** I was able to reuse code by creating classes and objects. For example, I created a `ClaimGenerator` class that can be used to generate claims for any product.
+* **Maintainability:** The object-oriented code is easier to maintain than the original notebook code. For example, I can easily add new features or fix bugs by modifying the relevant classes or objects.
+* **Extensibility:** The object-oriented code is extensible. For example, I can easily add new types of claims or integrate with other systems.
+
+**Result**
+
+In the end, I was able to help create the code that would be used in a test for a workshop. The object-oriented code was more reusable, maintainable, and extensible than the original notebook code.
