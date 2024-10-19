@@ -48,7 +48,7 @@ class CaesarAIMonthlyPortfolio:
             return self.caesaraigemini.convert_markdown_to_text(final_report)
         else:
             return final_report
-    def generate_monthly_report(self,evidence,prompt="rework and expand upon evidence with more detail in star method so that it matches the feedback given. To denote a screenshot use (screenshot). Any extra info required from me put it in the area needed in brackets",feedback="",verbose=0,convert_md=True):
+    def generate_monthly_report(self,evidence,prompt="in star method using Situation,Task,Action and Result as headers. rework and expand upon evidence with more detail so that it matches the feedback given. To denote a screenshot use (screenshot). Any extra info required from me put it in the area needed in brackets",feedback="",verbose=0,convert_md=True):
 
         prompt = f"{prompt} Evidence: {evidence} Feedback: {feedback}"
 
