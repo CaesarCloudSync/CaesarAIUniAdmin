@@ -1,0 +1,110 @@
+FYI: 8 hours, 3 hours lecture. 5 hours self study.
+
+
+
+Lecture 3 
+
+Modelling and Analysing the Internal Working of a Business System and Process
+
+
+
+Business System:
+ A set of interrelated processes that work together to achieve a common goal.
+
+
+Process Model:
+ A representation of a process that shows its inputs, outputs, activities, and flow of control.
+
+
+Process Analysis:
+ The examination of a process to identify areas for improvement.
+
+
+Modelling Techniques:
+ Tools and methods used to create process models, such as flowcharts and BPMN diagrams.
+
+
+Analysis Techniques:
+ Methods used to evaluate process performance and identify improvement opportunities, such as value stream mapping and process simulation.
+
+
+
+
+Importance of Modelling and Analysing Business Systems and Processes:
+
+
+
+
+- Provides a clear understanding of how a business operates. 
+- Facilitates process improvement and optimization.
+- Supports decision-making and strategic planning.
+- Enhances communication and collaboration.
+
+
+
+
+Modelling and Analysing the Internal Working of a Business System and Process
+
+
+
+Flowcharts:
+ Diagrams that use symbols to represent process steps and their relationships.
+
+
+BPMN Diagrams:
+ Standardized diagrams that use specific shapes and connectors to represent process elements.
+
+
+
+
+Process models provide a clear understanding of how processes work, facilitating communication and collaboration among stakeholders.
+
+
+Process Analysis
+
+
+Process analysis involves examining a process to identify areas for improvement. Common analysis techniques include:
+
+
+
+
+Value Stream Mapping:
+ A tool that visually represents the flow of materials and information through a process, identifying non-value-added activities.
+
+
+Process Simulation:
+ A technique that uses computer models to simulate process behavior, allowing for the evaluation of different scenarios and improvement options.
+
+
+
+
+Process analysis helps to identify bottlenecks, inefficiencies, and opportunities for improvement.
+
+
+Importance of Modelling and Analysing Business Systems and Processes
+
+
+Modelling and analysing business systems and processes is important for several reasons:
+
+
+
+
+
+Process Improvement:
+ Process analysis helps to identify areas for improvement, leading to increased efficiency and effectiveness.
+
+
+Decision-Making:
+ Process models and analysis support decision-making by providing insights into process performance and potential improvement options.
+
+
+Strategic Planning:
+ By understanding the internal workings of a business, organizations can develop more effective strategic plans.
+
+
+
+
+Conclusion
+
+
+Modelling and analysing business systems and processes is a powerful tool for understanding how an organization operates and identifying areas for improvement. Process models provide a visual representation of processes, while process analysis techniques allow for their evaluation and optimization. By embracing these techniques, organizations can gain a competitive advantage by improving their processes, making better decisions, and achieving strategic objectives.

@@ -1,0 +1,58 @@
+FYI: 8 hours, 3 hours lecture. 5 hours self study.
+
+
+
+
+
+Lecture: NIST Cloud Computing Characteristics and How They Are Involved
+
+
+
+NIST:
+ National Institute of Standards and Technology
+
+
+Cloud Computing:
+ A model for delivering IT services over the internet.
+
+
+NIST Cloud Computing Characteristics:
+ On-demand self-service, broad network access, resource pooling, rapid elasticity, measured service.
+
+
+
+
+How NIST Involves These Characteristics for Cloud Computing:
+
+
+
+
+On-demand self-service:
+ Users can provision and manage cloud resources without human interaction.
+
+ Cloud providers offer self-service portals and APIs, allowing users to provision and manage resources without waiting for IT support.
+
+
+Broad network access:
+ Cloud services are accessible over the internet from anywhere.
+ Cloud services are hosted on the internet, making them accessible from any device with an internet connection, regardless of location.
+
+Resource pooling:
+ Cloud resources are pooled to serve multiple users, providing economies of scale.
+ Cloud providers pool resources across multiple users, enabling efficient utilization and cost savings.
+
+
+Rapid elasticity:
+ Cloud resources can be scaled up or down quickly to meet changing demand.
+ Cloud resources can be scaled up or down in minutes, providing flexibility to meet fluctuating demand and avoid over-provisioning.
+
+Measured service:
+ Cloud usage is monitored and measured, providing transparency and accountability.
+ Cloud providers monitor and measure resource usage, providing detailed billing and enabling users to track and optimize their consumption.
+
+
+
+Conclusion
+
+
+The NIST cloud computing characteristics are essential elements of the cloud computing model. They provide on-demand self-service, broad network access, resource pooling, rapid elasticity, and measured service, enabling users to access and manage computing resources in a flexible, scalable, and cost-effective manner. These characteristics have revolutionized IT service delivery and continue to drive the adoption and growth of cloud computing.

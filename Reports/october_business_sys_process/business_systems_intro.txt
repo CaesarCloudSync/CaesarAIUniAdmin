@@ -1,0 +1,43 @@
+
+Business Systems and Processes Intro
+
+
+Business systems and processes are fundamental to the efficient and effective operation of any organization. 
+Understanding these concepts is essential for improving performance, optimizing resource allocation, and achieving strategic objectives.
+
+
+Business Systems
+
+
+A business system is a set of interrelated processes that work together to achieve a common goal. 
+The goal of a business system can be broad, such as delivering customer value or maximizing profitability, or specific, such as managing inventory or processing orders.
+
+
+Business Processes
+
+
+A business process is a sequence of activities that transforms inputs into outputs. 
+Inputs can include raw materials, information, or customer requests, while outputs can include finished goods, services, or decisions. 
+Processes are interconnected, forming a system that supports the overall goals of the organization.
+
+
+Process Management
+
+
+Process management is the systematic approach to improving and optimizing processes. 
+It involves identifying and understanding existing processes, analyzing their performance, and implementing changes to enhance efficiency and effectiveness. 
+Process management tools and techniques, such as process mapping and value chain analysis, help organizations visualize, document, and improve their processes.
+
+
+Value Chain
+
+
+The value chain is a framework for understanding the activities that create value for customers. It divides an organization's activities into primary activities, which are directly involved in creating and delivering products or services, and support activities, which provide essential support to primary activities. 
+By analyzing the value chain, organizations can identify areas for improvement and focus on activities that contribute most to customer value.
+
+
+Process Mapping
+
+
+Process mapping is a tool for visualizing and documenting processes. It involves creating a diagram that shows the steps in a process, the inputs and outputs of each step, and the flow of information and materials. 
+Process maps help organizations understand how processes work, identify bottlenecks and inefficiencies, and communicate processes to stakeholders.

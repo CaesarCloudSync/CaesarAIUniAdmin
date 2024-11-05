@@ -1,0 +1,10 @@
+Cloud Computing
+---------------
+Cloud computing has become a transformative force in the IT industry, offering businesses and individuals a new way to access and use computing resources. 
+Understanding the key concepts of cloud computing is essential for harnessing its benefits and making informed decisions about its adoption.
+
+NIST Cloud Computing Characteristics and Their Involvement
+-----------------------------------------------------------
+
+The National Institute of Standards and Technology (NIST) has defined five essential characteristics of cloud computing: on-demand self-service, broad network access, resource pooling, rapid elasticity, and measured service. 
+These characteristics are fundamental to the cloud computing model and play a crucial role in its adoption and use.
