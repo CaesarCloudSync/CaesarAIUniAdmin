@@ -1,0 +1,26 @@
+FYI: 8 hours, 3 hours lecture. 5 hours self study.
+
+
+
+A capability maturity diagram (CMM) is a framework that assesses an organization's software development capabilities and maturity level. It provides a structured approach for evaluating processes, identifying areas for improvement, and guiding the organization's journey towards higher maturity levels. CMMs help organizations improve software quality, reduce development time and costs, and enhance overall project success.
+
+
+Capability Maturity Diagram: A Guide to Software Development Excellence
+
+
+A capability maturity diagram (CMM) is an invaluable tool for organizations seeking to improve their software development capabilities and achieve higher levels of maturity. Developed by the Software Engineering Institute (SEI), CMMs provide a structured framework for assessing an organization's processes, identifying areas for improvement, and guiding the organization's journey towards excellence.
+
+
+CMMs operate on a scale of maturity levels, typically ranging from 1 to 5. Each level represents a set of defined process areas and capabilities that an organization must possess to achieve that level of maturity. For example, Level 1 organizations may have ad hoc and informal processes, while Level 5 organizations exhibit optimized and continuously improving processes.
+
+
+The benefits of using a CMM are numerous. By assessing an organization's maturity level, CMMs help identify strengths and weaknesses in software development processes. This enables organizations to prioritize improvement initiatives and focus resources on areas that will yield the greatest impact. CMMs also provide a common language and understanding of software development best practices, facilitating communication and collaboration within teams and across the organization.
+
+
+Moreover, CMMs drive continuous improvement. By establishing a baseline of current maturity, organizations can set goals for improvement and track progress over time. This iterative approach ensures that processes are continuously optimized to meet evolving business needs and technological advancements.
+
+
+One widely recognized CMM is the Capability Maturity Model Integration (CMMI). CMMI is a comprehensive framework that integrates multiple CMMs, including those for software development, acquisition, and services. CMMI provides a holistic view of an organization's capabilities and helps organizations achieve higher levels of maturity across the entire software development lifecycle.
+
+
+In conclusion, a capability maturity diagram is an essential tool for organizations seeking to improve their software development processes and achieve higher levels of maturity. CMMs provide a structured approach for assessing capabilities, identifying areas for improvement, and guiding the organization's journey towards excellence. By leveraging CMMs, organizations can enhance software quality, reduce development time and costs, and gain a competitive edge in the rapidly evolving software industry.
