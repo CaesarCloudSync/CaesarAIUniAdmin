@@ -12,7 +12,7 @@ class CaesarAIGemini:
   def __init__(self) -> None:
     genai.configure(api_key = (os.getenv("GOOGLE_AI_STUDIO_API_KEY")))
 
-    self.model = genai.GenerativeModel('gemini-pro')
+    self.model = genai.GenerativeModel('gemini-1.5-pro')
     self.chat = self.model.start_chat(history=[])
     self.vision_model = genai.GenerativeModel('gemini-pro-vision')
   def send_message(self,message):

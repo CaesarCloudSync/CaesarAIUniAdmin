@@ -27,7 +27,7 @@ resource "google_cloud_run_service" "run_service" {
   template {
     spec {
       containers {
-        image = "palondomus/caesaraiaptemotj:10"
+        image = "palondomus/caesaraiaptemotj:12"
       }
     }
   }
