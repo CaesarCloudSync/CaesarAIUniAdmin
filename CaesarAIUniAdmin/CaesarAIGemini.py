@@ -10,9 +10,10 @@ from dotenv import load_dotenv
 load_dotenv("CaesarAIUniAdmin/.env")
 class CaesarAIGemini:
   def __init__(self) -> None:
-    genai.configure(api_key = (os.getenv("GOOGLE_AI_STUDIO_API_KEY")))
+    genai.configure(api_key = ("AIzaSyD0nX8qRA10j_zw0zj_-mrIkj6DdpF00nc"))
 
-    self.model = genai.GenerativeModel('gemini-1.5-pro')
+    self.model = genai.GenerativeModel('gemini-1.5-flash')
+    print(self.model)
     self.chat = self.model.start_chat(history=[])
     self.vision_model = genai.GenerativeModel('gemini-pro-vision')
   def send_message(self,message):
@@ -20,6 +21,7 @@ class CaesarAIGemini:
       response = self.chat.send_message(message, stream=True)
       for chunk in response:
         try:
+          print(chunk.text)
           yield chunk.text
         except ValueError as vex:
           yield ""
