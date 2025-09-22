@@ -28,6 +28,7 @@ resource "google_secret_manager_secret_iam_member" "secret_access" {
   secret_id = data.google_secret_manager_secret.amari_dev_api_key_secret.id
   role      = "roles/secretmanager.secretAccessor"
   member    = "serviceAccount:amari-dev-secret-accessor@caesaraiapis.iam.gserviceaccount.com"
+  deletion_protection = false 
 }
 
 # Cloud Run v2 service resource
@@ -37,7 +38,7 @@ resource "google_cloud_run_v2_service" "run_service" {
   deletion_protection = false 
   template {
     containers {
-      image = "palondomus/caesaraiaptemotj:16"
+      image = "palondomus/caesaraiaptemotj:17"
       env {
         name = "GOOGLE_GEMINI_API_KEY"
         value_source {
