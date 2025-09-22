@@ -34,12 +34,10 @@ resource "google_secret_manager_secret_iam_member" "secret_access" {
 resource "google_cloud_run_v2_service" "run_service" {
   name     = "caesaraiaptemotj"
   location = "us-central1"
-
+  deletion_protection = false 
   template {
-      deletion_protection = false 
-    
     containers {
-      image = "palondomus/caesaraiaptemotj:15"
+      image = "palondomus/caesaraiaptemotj:16"
       env {
         name = "GOOGLE_GEMINI_API_KEY"
         value_source {
