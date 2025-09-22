@@ -36,8 +36,10 @@ resource "google_cloud_run_v2_service" "run_service" {
   location = "us-central1"
 
   template {
+      deletion_protection = false 
+    
     containers {
-      image = "palondomus/caesaraiaptemotj:14"
+      image = "palondomus/caesaraiaptemotj:15"
       env {
         name = "GOOGLE_GEMINI_API_KEY"
         value_source {
