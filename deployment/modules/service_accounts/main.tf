@@ -18,7 +18,7 @@ resource "google_secret_manager_secret_version" "service_account_key_version" {
 # Create Cloud Run service account
 # -----------------------------------
 resource "google_service_account" "google_gemini_sa" {
-  account_id   = "cloud-run-sa"
+  account_id   = "google-gemini-sa"
   display_name = "Cloud Run Service Account"
 }
 
