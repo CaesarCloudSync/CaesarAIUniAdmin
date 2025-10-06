@@ -10,7 +10,7 @@ from fastapi.responses import StreamingResponse
 from fastapi import WebSocket,WebSocketDisconnect
 from fastapi.middleware.cors import CORSMiddleware
 
-load_dotenv("CaesarAIUniAdmin/.env")
+load_dotenv(".env")
 app = FastAPI()
 app.add_middleware(
     CORSMiddleware,
