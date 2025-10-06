@@ -34,7 +34,7 @@ module "cloud_run" {
   service_name          = var.service_name
   region                = var.region
   image                 = var.image
-  service_account_email = module.service_accounts.cloud_run_sa_email
+  service_account_email = module.service_accounts.google_gemini_sa_email
   secret_id             = module.service_accounts.secret_id
 }
 

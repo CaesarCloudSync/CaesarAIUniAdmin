@@ -1,8 +1,8 @@
 # -----------------------------------
 # Outputs
 # -----------------------------------
-output "cloud_run_sa_email" {
-  value = google_service_account.cloud_run_sa.email
+output "google_gemini_sa_email" {
+  value = google_service_account.google_gemini_sa.email
 }
 
 output "secret_id" {
