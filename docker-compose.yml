@@ -1,22 +1,11 @@
-version: '3.9'
 services:
-
-  caesaraiuniadmin:
+  web:
+    image: ${FULL_IMAGE}
+    container_name: ${IMAGE}  # Replace / with - for container name
     build:
       context: .
-      dockerfile: Dockerfile
-
-    container_name: caesaraiuniadmin
     ports:
       - "8080:8080"
-    volumes:
-
-      - .:/home/user/app
-
-    environment:
-
-      - PYTHONPATH=/home/user/app
-
+    stdin_open: true   # equivalent to -it
+    tty: true          # equivalent to -it
     restart: unless-stopped
-
- 
