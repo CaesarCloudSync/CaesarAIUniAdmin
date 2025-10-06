@@ -11,7 +11,7 @@ load_dotenv("CaesarAIUniAdmin/.env")
 class CaesarAIGemini:
   def __init__(self) -> None:
     print(os.getenv("GOOGLE_API_KEY"))
-    genai.configure(api_key = (os.getenv("GOOGLE_API_KEY")))
+    genai.configure(api_key = (os.getenv("GOOGLE_API_KEY").decode("UTF-8")))
 
     self.model = genai.GenerativeModel('gemini-2.5-flash')
     print(self.model)
