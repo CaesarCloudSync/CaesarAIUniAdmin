@@ -1,4 +1,5 @@
 #!/bin/bash
+
 image="caesaraiaptemotj"
 
 newv=$(head -c 32 /dev/urandom | sha256sum | cut -d' ' -f1)
@@ -29,15 +30,6 @@ git commit -m "$1"
 git push origin -u main:main
 
 docker compose up
-
-
-
-
-
-
-
-
-
 
 
 
