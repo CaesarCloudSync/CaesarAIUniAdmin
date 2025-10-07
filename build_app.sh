@@ -1,5 +1,5 @@
 #!/bin/bash
-
+artifact_repo="us-central1-docker.pkg.dev/caesaraiapis/caesaraiapis"
 image="caesaraiaptemotj"
 
 newv=$(head -c 32 /dev/urandom | sha256sum | cut -d' ' -f1)
@@ -7,17 +7,18 @@ newv=$(head -c 32 /dev/urandom | sha256sum | cut -d' ' -f1)
 # Auth GCP Cloud
 gcloud auth application-default login
 
-
-export FULL_IMAGE=palondomus/$image:$newv
+full_image="$artifact_repo/$image:$newv"
+export FULL_IMAGE=$full_image
 export IMAGE=$image
 export NEWV=$newv
 
 # Push Docker
 docker compose build
-docker push palondomus/$image:$newv
+docker push $full_image
 
 
-export TF_VAR_image="palondomus/$image:$newv"
+export TF_VAR_image=$full_image
+echo $full_image
 cd deployment
 # Terraform Push Google Cloud
 terraform init
