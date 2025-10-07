@@ -1,7 +1,7 @@
 # Use the official Python 3.9 image
 FROM python:3.10
 RUN export PYTHONPATH=$PWD
-RUN apt-get update && apt-get install curl ffmpeg libsm6 libxext6 uvicorn libopencv-dev python3-opencv tesseract-ocr -y
+RUN apt-get update && apt-get install curl libsm6 libxext6 uvicorn -y
 RUN pip install uvicorn
 RUN pip install pillow
 RUN pip install -q -U google-generativeai
